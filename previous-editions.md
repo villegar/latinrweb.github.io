@@ -9,7 +9,12 @@ lang: en
 
 Presentations and posters from previous editions of the conference can be found in the following repository:
 
+* [Latinr2021](https://github.com/LatinR/presentaciones-LatinR2021)
+
+  Online, November 2021. Chairs: Natalia da Silva, Riva Quiroga, Yanina Bellini Saibene.
+
 * [Latinr2020](https://github.com/LatinR/presentaciones-LatinR2020)
+
   Online, October 2020. Chairs: Natalia da Silva, Riva Quiroga, Yanina Bellini Saibene, Florencia D'Andrea
   
 * [Latinr2019](https://github.com/LatinR/presentaciones-LatinR2019)   
