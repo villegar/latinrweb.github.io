@@ -24,7 +24,7 @@ en:
   team: Team
   logistics: Logistics
   inscribite: Register
-  eventDate: "November 10-12, 2021 - Online"
+  eventDate: "October 10-14, 2022 - Online"
   description: Latinamerican Conference About the Use of R in R&D
   metaKeywords: "event, R, conference, statistics, dataviz"
   tweetsFeedTitle: What's up?
@@ -52,8 +52,8 @@ en:
   rightNavigationButtons:
    - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Register here!"}
   heroButtons:
-  # - {permalink: "https://easychair.org/cfp/latinr2021", text: "Call for Papers"}
-   - {permalink: "/schedule", text: "Schedule"}
+   - {permalink: "https://easychair.org/cfp/latinr2022", text: "Call for Papers"}
+   #- {permalink: "/schedule", text: "Schedule"}
    - {permalink: "https://www.youtube.com/LatinR", text: "YouTube Streaming"}
   # - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Register here!"}
 
@@ -122,7 +122,7 @@ es:
   team: Equipo
   logistics: Logística
   inscribite: Inscríbete
-  eventDate: "10 al 12 de noviembre de 2021 - Virtual"
+  eventDate: "10 al 14 de octubre de 2022 - Virtual"
   description: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
   metaKeywords: "evento, R, conferencia, estadística, dataviz"
   latestNewsTitle: "Novedades"
@@ -146,8 +146,8 @@ es:
   rightNavigationButtons:
    - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Registrate acá!"}
   heroButtons:
-   #- {permalink: "https://easychair.org/cfp/latinr2021", text: "Convocatoria a presentar trabajos"}
-   - {permalink: "/cronograma", text: "Cronograma"}
+   - {permalink: "https://easychair.org/cfp/latinr2022", text: "Convocatoria a presentar trabajos"}
+   #- {permalink: "/cronograma", text: "Cronograma"}
    - {permalink: "https://www.youtube.com/LatinR", text: "Streaming a YouTube"}
    #- {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Registrate acá!"}
 
@@ -221,7 +221,7 @@ pt:
   team: Equipe
   #logistics: Logística
   inscribite: Inscrever
-  eventDate: "10 a 12 de novembro de 2020 - Virtual"
+  eventDate: "10 a 14 de outubro de 2022 - Virtual"
   description: Conferência Latino-Americana sobre o Uso de R em P&D
   metaKeywords: "evento, R, conferência, estatística, visualização de dados"
   tweetsFeedTitle: Novidades
@@ -249,8 +249,8 @@ pt:
   rightNavigationButtons:
    - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Assine aqui!"}
   heroButtons:
-   # - {permalink: "https://easychair.org/cfp/latinr2021", text: "Chamada de trabalhos"}
-   - {permalink: "/programacao", text: "Programação"}
+   - {permalink: "https://easychair.org/cfp/latinr2022", text: "Chamada de trabalhos"}
+   #- {permalink: "/programacao", text: "Programação"}
    - {permalink: "https://www.youtube.com/LatinR", text: "YouTube Streaming"}
    #- {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Assine aqui!"}
 

@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 encoding: UTF-8
 # Site Settings
-title: "LatinR 2021"
+title: "LatinR 2022"
 email: ""
 baseurl: ""
 url: "https://latinr.github.io/"
@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "LatinR 2021"
+heroTitle: "LatinR 2022"
 typeoutTextValues: '""'
 typeoutFallback: ""
 
