@@ -242,7 +242,7 @@ pt:
    - {permalink: "/pt/equipe/", text: "Equipe"}
   # - {permalink: "/pt/logistica/", text: "Logística"}
    - {permalink: "/pt/blog/", text: "Notícias"}
-   # - {permalink: "/pt/edicoes-anteriores", text: "Edições anteriores"}
+   - {permalink: "/edicoes-anteriores", text: "Edições anteriores"}
 
   bottomNavigationLinks:
    # - {permalink: "/blog/chamada-trabalhos", text: "Chamada de trabalhos"}
