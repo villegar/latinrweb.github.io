@@ -3,7 +3,7 @@ layout: post
 title:  "Llamado a Presentación de Trabajos"
 isStaticPost: false
 lang: es
-ref: call-for-papers
+ref: call-for-papers-2020
 ---
 
 #### LatinR2020 <- Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo

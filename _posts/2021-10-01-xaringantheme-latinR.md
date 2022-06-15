@@ -3,7 +3,7 @@ layout: post
 title:  "Creando presentaciones con el theme latinR"
 isStaticPost: false
 lang: es
-ref: call-for-papers
+ref: call-for-papers-pkg
 ---
 
 #### El theme latinR

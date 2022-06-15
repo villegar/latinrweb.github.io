@@ -3,7 +3,7 @@ layout: post
 title:  "Chamada de Trabalhos"
 isStaticPost: false
 lang: pt
-ref: call-for-papers
+ref: call-for-papers-2020
 ---
 
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Call for Papers"
 isStaticPost: false
 lang: en
-ref: call-for-papers
+ref: call-for-papers-2020
 ---
 
 
