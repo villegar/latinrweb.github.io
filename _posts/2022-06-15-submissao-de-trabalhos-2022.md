@@ -62,7 +62,7 @@ ao vivo durante a conferência e posteriormente estarão disponíveis em
 nosso canal no YouTube. As línguas oficiais da conferência são o
 espanhol, o português e o inglês. O resumo deve ser escrito no idioma em
 que a apresentação/tutorial será realizada. O prazo para envio de
-propostas para apresentações é sexta-feira, 17 de junho. Os envios devem
+propostas para apresentações é sexta-feira, 17 de julho. Os envios devem
 ser feitos através do [seguinte
 formulário](https://easychair.org/conferences/?conf=latinr2022).
 
@@ -142,12 +142,12 @@ A submissão de propostas de mesas temáticas deve incluir:
 **Início do recebimento das propostas**: 9 de maio de 2022
 
 **Prazo final para recebimento de propostas de
-[tutoriais]**: 3 de junho de 2022
+[tutoriais]**: 3 de julho de 2022
 
 **Prazo final para recebimento das propostas de
-[apresentação]**: 17 de junho de 2022
+[apresentação]**: 17 de julho de 2022
 
-**Envio do resultado dos tutoriais**: final de junho
+**Envio do resultado dos tutoriais**: final de julho
 
 **Envio do resultado das apresentações**: final de agosto
 
@@ -171,7 +171,7 @@ e 11 de outubro de 2022.
 
 -   Os envios devem ser feitos através da plataforma
     [EasyChair](https://easychair.org/conferences/?conf=latinr2022),
-    de 9 de maio a 17 de junho.
+    de 9 de maio a 17 de julho.
 
 -   Os resumos devem ser escritos em tamanho carta, fonte tamanho 11,
     espaçamento simples.
