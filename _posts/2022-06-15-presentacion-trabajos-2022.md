@@ -61,7 +61,7 @@ disponibles en nuestro canal de YouTube. Los idiomas oficiales de la
 conferencia son español, portugués e inglés. **El resumen debe
 escribirse en el idioma en que se realizará la presentación/tutorial**.
 La fecha límite para el envío de propuestas de presentaciones es el
-viernes 17 de julio. Los envíos deben hacerse a través [del siguiente
+viernes 27 de julio. Los envíos deben hacerse a través [del siguiente
 formulario](https://easychair.org/conferences/?conf=latinr2022).
 
 ##### Modalidades de presentación
@@ -145,7 +145,7 @@ El envío de propuestas para mesas temáticas debe incluir:
 **Fecha límite para la recepción de propuestas de tutoriales**: 3 de
 julio de 2022
 
-**Fecha límite para la recepción de propuestas de presentaciones**: 17
+**Fecha límite para la recepción de propuestas de presentaciones**: 27
 de julio de 2022
 
 **Notificación aceptación tutoriales**: fines de julio
@@ -172,7 +172,7 @@ de julio de 2022
 
 -   Los envíos deben hacerse a través de la plataforma
     [EasyChair](https://easychair.org/conferences/?conf=latinr2022)a
-    partir del día 9 de mayo y hasta el **17 de julio**. 
+    partir del día 9 de mayo y hasta el **27 de julio**. 
 
 -   Los resúmenes deben elaborarse en tamaño carta en fuente tamaño 11 a
     espacio simple. 
