@@ -1,17 +1,28 @@
 -
-  group: {es: "", en: ""}
+  group: {es: "", en: "", pt: ""}
   elements:
     - {name: "Appsilon", description: "Appsilon", link: "https://appsilon.com/", imageUrl: "Appsilon_2020_RGB_svg-COLOR.svg"}
 
 -
-  group: {es: "", en: ""}
+  group: {es: "", en: "", pt: ""}
   elements:
     - {name: "R Consortium", description: "R Consortium", link: "https://www.r-consortium.org/", imageUrl: "RConsortium_Icon.png"}
 
 -
-  group: {es: "", en: ""}
+  group: {es: "", en: "", pt: ""}
   elements:
     - {name: "RStudio", description: "RStudio", link: "https://www.rstudio.com/", imageUrl: "RStudio.png"}
+    
+-
+  group: {es: "", en: "", pt: ""}
+  elements:
+    - {name: "Universidad de la República", description: "Universidad de la República", link: "https://udelar.edu.uy/portal/", imageUrl: "universidad-republica.png" }  
+
+-
+  group: {es: "Community Partner", en: "Community Partner", pt: "Community Partner"}
+  elements:
+    - {name: "rOpenSci", description: "rOpenSci", link: "https://ropensci.org/", imageUrl: "ropensci.svg" }  
+
 
 #   group: {es: "", en: ""}
 #   elements:
