@@ -19,7 +19,7 @@ footerBlocks:
 en:
   about: About
   home: Home
-  #schedule: Schedule
+  schedule: Schedule
   speakers: Speakers
   team: Team
   logistics: Logistics
@@ -40,7 +40,7 @@ en:
   # Navigation
   navigationLinks:
    - {permalink: "/en", text: "Home" }
-  # - {permalink: "/schedule/", text: "Schedule"}
+   - {permalink: "/schedule/", text: "Schedule"}
   # - {permalink: "/speakers/", text: "Speakers"}
    - {permalink: "/team/", text: "Team"}
   # - {permalink: "/logistics/", text: "Logistics"}
@@ -48,9 +48,9 @@ en:
    - {permalink: "/previous-editions", text: "Previous Editions"}
 
   bottomNavigationLinks:
-  # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
+   - {permalink: "http://bit.ly/latinr_slack", text: "Join us on Slack"}
   rightNavigationButtons:
-   - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Register here!"}
+   - {permalink: "http://bit.ly/latinr_slack", text: "Join us on Slack"}
   heroButtons:
    #- {permalink: "https://easychair.org/cfp/latinr2022", text: "Call for Papers: submit until July 27!"}
    #- {permalink: "/schedule", text: "Schedule"}
@@ -117,7 +117,7 @@ en:
 es:
   about: Acerca de
   home: Principal
-  #schedule: Cronograma
+  schedule: Cronograma
   # speakers: Oradores
   team: Equipo
   logistics: Logística
@@ -135,16 +135,16 @@ es:
   # Navigation
   navigationLinks:
    - {permalink: "/", text: "Principal" }
-  # - {permalink: "/cronograma/", text: "Cronograma"}
+   - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
    - {permalink: "/equipo/", text: "Equipo"}
   # - {permalink: "/logistica/", text: "Logística"}
    - {permalink: "/blog/", text: "Novedades"}
    - {permalink: "/ediciones-anteriores/", text: "Ediciones Anteriores"}
   bottomNavigationLinks:
-  # - {permalink: "/blog/presentacion-trabajos-2021", text: "llamado a presentación de trabajos"}
+   - {permalink: "http://bit.ly/latinr_slack", text: "Únete en Slack"}  
   rightNavigationButtons:
-   - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Registrate acá!"}
+   - {permalink: "http://bit.ly/latinr_slack", text: "Únete en Slack"}  
   heroButtons:
    #- {permalink: "https://easychair.org/cfp/latinr2022", text: "Convocatoria a presentar trabajos: hasta 27 de julio!"}
    #- {permalink: "/cronograma", text: "Cronograma"}
@@ -237,7 +237,7 @@ pt:
   # Navigation
   navigationLinks:
    - {permalink: "/pt", text: "Início" }
-   #- {permalink: "/programacao/", text: "Programação"}
+   - {permalink: "/programacao/", text: "Programação"}
   # - {permalink: "/palestrantes/", text: "Palestrantes"}
    - {permalink: "/pt/equipe/", text: "Equipe"}
   # - {permalink: "/pt/logistica/", text: "Logística"}
@@ -245,9 +245,9 @@ pt:
    - {permalink: "/edicoes-anteriores", text: "Edições anteriores"}
 
   bottomNavigationLinks:
-   # - {permalink: "/blog/chamada-trabalhos", text: "Chamada de trabalhos"}
+   - {permalink: "http://bit.ly/latinr_slack", text: "Acesse o Slack"} 
   rightNavigationButtons:
-   - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Assine aqui!"}
+   - {permalink: "http://bit.ly/latinr_slack", text: "Acesse o Slack"}  
   heroButtons:
    #- {permalink: "https://easychair.org/cfp/latinr2022", text: "Chamada de trabalhos: até 27 de julho!"}
    #- {permalink: "/programacao", text: "Programação"}
