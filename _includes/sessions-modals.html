@@ -38,6 +38,15 @@
 						{% if session.presentation %}
 						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
 						{% endif %}
+						
+						{% if session.registration %}
+						<center><a class="btn btn-success btn-lg center" href="{{ session.registration }}" title="Register" target="_blank">Inscríbete / Register / Inscreva-se </a></center> <br>
+						{% endif %}
+						
+					{% if session.time %}
+						<center><a class="btn btn-primary center" href="{{ session.time }}" title="Horario/Time" target="_blank">Horario/Time</a></center>
+						{% endif %}
+						
 						<hr>
 						<div class="people-details">
 							{% for session_speaker in session.speakers %}
@@ -54,7 +63,7 @@
 										</div>
 										<div class="col-md-10 col-sm-10 details">
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}
-												<span class="position">{{ speaker.title.[lang] }}, {{ speaker.company }}</span>
+												<span class="position">{{ speaker.title.[lang] }} {{ speaker.company }}</span>
 											</p>
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">

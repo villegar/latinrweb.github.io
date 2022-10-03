@@ -44,6 +44,21 @@
     }    
 
 
+## HACKATHON ## 
+-
+  date: "2022-10-15"
+  dateReadable: {en: "october 15th", es: "15 de octubre", pt: "15 de outubro"}
+  tracks:
+    - {title: {en: "Hackathon", es: "Hackathon", pt: "Hackathon"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "10:00",
+      endTime:    "12:00",
+      sessionIds: [007]
+    }
+
+
+
 # -
 #   # INAUGURACIÓN
 #   date: "2021-11-10"

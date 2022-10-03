@@ -46,8 +46,15 @@
   title: "Comunicando seus resultados: Criando apresentações com Quarto."
   language: pt
   speakers: [17]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2022-10-10/10:00/>Horario</a> <br/>
-  Descripción del taller (próximamente). <br/>'
+  time: "https://arewemeetingyet.com/Montevideo/2022-10-10/10:00/"
+  registration: "https://www.eventbrite.cl/e/comunicando-seus-resultados-criando-apresentacoes-com-quarto-tutorial-tickets-431226338587"
+  description: 'O RMarkdown possibilita criar relatórios reprodutíveis usando R.
+  A nova geração do RMarkdown, que também é desenvolvida pela R Studio, se chama Quarto (https://quarto.org/) 
+  e surgiu em 2021. Quarto busca avançar para ser uma ferramenta de escrita científica e técnica para conteúdo 
+  além de R, funcionando bem também com Python, Julia e ObservableJS. Podemos usar o Quarto em para gerar
+  diferentes tipos de arquivos, como relatórios, sites, apresentações, livros e outros 
+  (veja a galeria! https://quarto.org/docs/gallery/ ). Essa palestra pretende mostrar em uma atividade
+  prática como os participantes podem usar o Quarto para criar apresentações, e disponibilizá-las online.'
 
 - id: 002
   title: "Introducción a RMarkdown, creando reportes con R y Python en RStudio."
@@ -84,6 +91,15 @@
   speakers: [30]
   description: '<a href = https://arewemeetingyet.com/Montevideo/2022-10-11/18:00/>Horario</a> <br/>
   Descripción del taller (próximamente). <br/>'    
+  
+## HACKATON ##
+
+- id: 007
+  title: "R translatón / Hackaton de tradução do R"
+  language: es/pt
+  speakers: [17, 31, 32]
+  description: '<a href = https://arewemeetingyet.com/Montevideo/2022-10-15/10:00/>Horario</a> <br/>
+  Descripción: (próximamente). <br/>'    
   
 
 # 
