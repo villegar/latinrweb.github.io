@@ -109,8 +109,8 @@
   language: en
   speakers: [30]
   time: "https://arewemeetingyet.com/Montevideo/2022-10-11/18:00/"
-  description: '
-  Descripción del taller (próximamente). <br/>'    
+  registration: "https://www.eventbrite.cl/e/creating-shiny-apps-with-rhino-the-new-framework-shiny-apps-tickets-431336387747"
+  description: 'En representación de nuestro sponsor Appsilon, Kamil Żyła nos presentará Rhino, la nueva herramienta para crear ShinyApps. Representing our sponsor Appsilon, Kamil Żyła will present Rhino, the new tool for creating ShinyApps. Tutorial en inglés. Tutorial in English. '    
   
 ## HACKATON ##
 
