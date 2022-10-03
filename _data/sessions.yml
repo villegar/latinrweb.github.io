@@ -71,7 +71,7 @@
   speakers: [8]
   time: "https://arewemeetingyet.com/Montevideo/2022-10-10/18:00/"
   registration: "https://www.eventbrite.cl/e/herramientas-y-atajos-para-programar-eficientemente-con-rstudio-tickets-431248173897"
-  description: 'Hoy en día tenemos diversas opciones para ver, editar, y ejecutar nuestro código de R. Gracias a los entornos de programación (IDEs por sus siglas en inglés), es posible ir mucho más allá de archivos de texto. Los IDEs reconocen la sintaxis del lenguaje y nos brindan herramientas para interactuar eficientemente con todos los elementos involucrados en un flujo de trabajo. Para trabajar en R, uno de los IDEs más utilizados es RStudio. Este tutorial tiene como objetivo dar a conocer herramientas y atajos para editar, modificar y ejecutar código en RStudio de manera eficiente y cuyo resultado final sea más legible, organizado, y fácil de usar. Para aumentar la productividad, se verán atajos de teclado (por ejemplo, para insertar operadores comunes o navegar entre pestañas) y herramientas de edición, evitando así cortar/pegar y el uso excesivo del ratón o panel táctil. Además, el tutorial cubre ‘addins’ externos para estilizar y estructurar código, o agregar anotaciones sobre los paquetes que se están usando. Finalmente, se abordará la personalización del entorno, incluyendo la apariencia del texto, colores, y la organización de paneles y ventanas. '  
+  description: 'Hoy en día tenemos diversas opciones para ver, editar, y ejecutar nuestro código de R. Gracias a los entornos de programación (IDEs por sus siglas en inglés), es posible ir mucho más allá de archivos de texto. Los IDEs reconocen la sintaxis del lenguaje y nos brindan herramientas para interactuar eficientemente con todos los elementos involucrados en un flujo de trabajo. Para trabajar en R, uno de los IDEs más utilizados es RStudio. Este tutorial tiene como objetivo dar a conocer herramientas y atajos para editar, modificar y ejecutar código en RStudio de manera eficiente y cuyo resultado final sea más legible, organizado, y fácil de usar. Para aumentar la productividad, se verán atajos de teclado (por ejemplo, para insertar operadores comunes o navegar entre pestañas) y herramientas de edición, evitando así cortar/pegar y el uso excesivo del ratón o panel táctil. Además, el tutorial cubre ‘addins’ externos para estilizar y estructurar código, o agregar anotaciones sobre los paquetes que se están usando. Finalmente, se abordará la personalización del entorno, incluyendo la apariencia del texto, colores, y la organización de paneles y ventanas.'  
   
 
 - id: 004
@@ -79,16 +79,30 @@
   language: en
   speakers: [29]
   time: "https://arewemeetingyet.com/Montevideo/2022-10-11/10:00/"
-  description: '
-  Descripción del taller (próximamente). <br/>'
+  registration: "https://www.eventbrite.cl/e/introduction-to-text-analysis-with-r-tickets-431294041087"
+  description: "This tutorial will introduce some principles of text analysis using R.
+  A first introductory part will show some examples of text analysis in practice in social
+  research. A second part will deal with some basic text analysis in graphical mode 
+  (just mouse clicks, no coding) using R Commander. Although easy, this method has several
+  limitations, so we go to the third and more extensive part, that will deal with text
+  analysis writing code. There are a lot of packages in R for text analysis, some of them
+  using tidy principles (don't worry for now), and some differences to other approaches. 
+  We will see differences between bag of words and semantic parsing. Data cleaning (or data 
+  wrangling) is also a (great) part in preparing data for analysis, and we will see the
+  typical steps, like removing stopwords, stemming and lemmatization, etc. Data visualization 
+  like simple word frequencies, different ways to do different wordclouds, frequency of words 
+  and dictionary methods such as concept frequency, some basic sentiment analysis 
+  (specially for non-English speakers). Finally, we will enter into some basic machine 
+  learning, like topic modeling."
 
 - id: 005
   title: "Conquistando errores en R."
   language: es
   speakers: [10]
   time: "https://arewemeetingyet.com/Montevideo/2022-10-11/14:00/"
-  description: '
-  Descripción del taller (próximamente). <br/>'
+  registration: "https://www.eventbrite.cl/e/conquistando-errores-en-r-tickets-431326357747"
+  description: 'Debuggear o depurar los errores de tu código puede ser una tarea frustrante. Tal vez obtuviste un mensaje de error y hay que interpretarlo o tal vez el código devuelve un resultado que no es el esperado. Si bien no existe una herramienta o método mágico para identificar los errores en un código, depurar errores requiere de un proceso sistemático. En este tutorial aprenderás a utilizar funciones y herramientas que te ayudarán a depurar errores, analizando el código y haciendo preguntas necesarias que guien ese análisis.
+  Cómo con cualquier tarea asociada a la programación, la depuración de errores es una habilidad que requiere práctica, por lo que en el tutorial tendrás la posibilidad de seguir los ejemplos, resolver nuevos problemas aplicando las herramientas vistas, discutir en grupo y hacer todas las preguntas que tengas.'
 
 - id: 006
   title: "Creating Shiny Apps with Rhino: the new framework Shiny apps."
