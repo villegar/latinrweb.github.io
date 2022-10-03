@@ -60,36 +60,42 @@
   title: "Introducción a RMarkdown, creando reportes con R y Python en RStudio."
   language: es
   speakers: [28]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2022-10-10/14:00/>Horario</a> <br/>
-  Descripción del taller (próximamente). <br/>'
+  time: "https://arewemeetingyet.com/Montevideo/2022-10-10/14:00/"
+  registration: "https://www.eventbrite.cl/e/introduccion-a-rmarkdown-creando-reportes-con-r-y-python-en-rstudio-tickets-431239558127"
+  description: 'Nos enfocamos en enseñar los aspectos básicos del uso de RMarkdown para la creación de documentos HTML, reportes, presentaciones y dashboards en RStudio haciendo uso de los paquetes ggplot2, lattice, Flexdashboard y de las librerías de Matplotlib y Seborn, mostrando como RMarkdown permite no sólo trabajar con R pero también con otros lenguajes de programación como Python. 
+  Para luego publicar los documentos creados en plataformas como RPubs y Netlify, el asistente podra incrementar sus habilidades en el uso de R y RMarkdown convirtiendo sus análisis estadísticos o modelos de machine learning en documentos reproducibles, también mostraremos como añadir referencia bibliograficas a los documentos finales para ser usados tanto en el plano académico, como profesional.'
 
 - id: 003
   title: "Herramientas y atajos para programar eficientemente con RStudio."
   language: es
   speakers: [8]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2022-10-10/18:00/>Horario</a> <br/>
-  Descripción del taller (próximamente). <br/>'  
+  time: "https://arewemeetingyet.com/Montevideo/2022-10-10/18:00/"
+  registration: "https://www.eventbrite.cl/e/herramientas-y-atajos-para-programar-eficientemente-con-rstudio-tickets-431248173897"
+  description: 'Hoy en día tenemos diversas opciones para ver, editar, y ejecutar nuestro código de R. Gracias a los entornos de programación (IDEs por sus siglas en inglés), es posible ir mucho más allá de archivos de texto. Los IDEs reconocen la sintaxis del lenguaje y nos brindan herramientas para interactuar eficientemente con todos los elementos involucrados en un flujo de trabajo. Para trabajar en R, uno de los IDEs más utilizados es RStudio. Este tutorial tiene como objetivo dar a conocer herramientas y atajos para editar, modificar y ejecutar código en RStudio de manera eficiente y cuyo resultado final sea más legible, organizado, y fácil de usar. Para aumentar la productividad, se verán atajos de teclado (por ejemplo, para insertar operadores comunes o navegar entre pestañas) y herramientas de edición, evitando así cortar/pegar y el uso excesivo del ratón o panel táctil. Además, el tutorial cubre ‘addins’ externos para estilizar y estructurar código, o agregar anotaciones sobre los paquetes que se están usando. Finalmente, se abordará la personalización del entorno, incluyendo la apariencia del texto, colores, y la organización de paneles y ventanas. '  
   
 
 - id: 004
   title: "Introduction to Text Analysis with R."
   language: en
   speakers: [29]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2022-10-11/10:00/>Horario</a> <br/>
+  time: "https://arewemeetingyet.com/Montevideo/2022-10-11/10:00/"
+  description: '
   Descripción del taller (próximamente). <br/>'
 
 - id: 005
   title: "Conquistando errores en R."
   language: es
   speakers: [10]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2022-10-11/14:00/>Horario</a> <br/>
+  time: "https://arewemeetingyet.com/Montevideo/2022-10-11/14:00/"
+  description: '
   Descripción del taller (próximamente). <br/>'
 
 - id: 006
   title: "Creating Shiny Apps with Rhino: the new framework Shiny apps."
   language: en
   speakers: [30]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2022-10-11/18:00/>Horario</a> <br/>
+  time: "https://arewemeetingyet.com/Montevideo/2022-10-11/18:00/"
+  description: '
   Descripción del taller (próximamente). <br/>'    
   
 ## HACKATON ##
@@ -98,7 +104,8 @@
   title: "R translatón / Hackaton de tradução do R"
   language: es/pt
   speakers: [17, 31, 32]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2022-10-15/10:00/>Horario</a> <br/>
+  time: "https://arewemeetingyet.com/Montevideo/2022-10-11/18:00/"
+  description: '
   Descripción: (próximamente). <br/>'    
   
 
