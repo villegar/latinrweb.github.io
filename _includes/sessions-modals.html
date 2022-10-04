@@ -43,6 +43,10 @@
 						<center><a class="btn btn-success btn-lg center" href="{{ session.registration }}" title="Register" target="_blank">Inscríbete / Register / Inscreva-se </a></center> <br>
 						{% endif %}
 						
+						{% if session.beca %}
+						<center><a class="btn btn-info center" href="{{ session.beca }}" title="Scholarship/Beca/Bolsas" target="_blank">Beca/Scholarship/Bolsa</a></center> <br>
+						{% endif %}
+						
 					{% if session.time %}
 						<center><a class="btn btn-primary center" href="{{ session.time }}" title="Horario/Time" target="_blank">Horario/Time</a></center>
 						{% endif %}

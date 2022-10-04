@@ -46,6 +46,7 @@
   title: "Comunicando seus resultados: Criando apresentações com Quarto."
   language: pt
   speakers: [17]
+  beca: "https://forms.gle/KSRrQ2WpCKVKR4cn8"
   time: "https://arewemeetingyet.com/Montevideo/2022-10-10/10:00/"
   registration: "https://www.eventbrite.cl/e/comunicando-seus-resultados-criando-apresentacoes-com-quarto-tutorial-tickets-431226338587"
   description: 'O RMarkdown possibilita criar relatórios reprodutíveis usando R.
@@ -60,6 +61,7 @@
   title: "Introducción a RMarkdown, creando reportes con R y Python en RStudio."
   language: es
   speakers: [28]
+  beca: "https://forms.gle/KSRrQ2WpCKVKR4cn8"
   time: "https://arewemeetingyet.com/Montevideo/2022-10-10/14:00/"
   registration: "https://www.eventbrite.cl/e/introduccion-a-rmarkdown-creando-reportes-con-r-y-python-en-rstudio-tickets-431239558127"
   description: 'Nos enfocamos en enseñar los aspectos básicos del uso de RMarkdown para la creación de documentos HTML, reportes, presentaciones y dashboards en RStudio haciendo uso de los paquetes ggplot2, lattice, Flexdashboard y de las librerías de Matplotlib y Seborn, mostrando como RMarkdown permite no sólo trabajar con R pero también con otros lenguajes de programación como Python. 
@@ -69,6 +71,7 @@
   title: "Herramientas y atajos para programar eficientemente con RStudio."
   language: es
   speakers: [8]
+  beca: "https://forms.gle/KSRrQ2WpCKVKR4cn8"
   time: "https://arewemeetingyet.com/Montevideo/2022-10-10/18:00/"
   registration: "https://www.eventbrite.cl/e/herramientas-y-atajos-para-programar-eficientemente-con-rstudio-tickets-431248173897"
   description: 'Hoy en día tenemos diversas opciones para ver, editar, y ejecutar nuestro código de R. Gracias a los entornos de programación (IDEs por sus siglas en inglés), es posible ir mucho más allá de archivos de texto. Los IDEs reconocen la sintaxis del lenguaje y nos brindan herramientas para interactuar eficientemente con todos los elementos involucrados en un flujo de trabajo. Para trabajar en R, uno de los IDEs más utilizados es RStudio. Este tutorial tiene como objetivo dar a conocer herramientas y atajos para editar, modificar y ejecutar código en RStudio de manera eficiente y cuyo resultado final sea más legible, organizado, y fácil de usar. Para aumentar la productividad, se verán atajos de teclado (por ejemplo, para insertar operadores comunes o navegar entre pestañas) y herramientas de edición, evitando así cortar/pegar y el uso excesivo del ratón o panel táctil. Además, el tutorial cubre ‘addins’ externos para estilizar y estructurar código, o agregar anotaciones sobre los paquetes que se están usando. Finalmente, se abordará la personalización del entorno, incluyendo la apariencia del texto, colores, y la organización de paneles y ventanas.'  
@@ -79,6 +82,7 @@
   language: en
   speakers: [29]
   time: "https://arewemeetingyet.com/Montevideo/2022-10-11/10:00/"
+  beca: "https://forms.gle/KSRrQ2WpCKVKR4cn8"
   registration: "https://www.eventbrite.cl/e/introduction-to-text-analysis-with-r-tickets-431294041087"
   description: "This tutorial will introduce some principles of text analysis using R.
   A first introductory part will show some examples of text analysis in practice in social
@@ -99,6 +103,7 @@
   title: "Conquistando errores en R."
   language: es
   speakers: [10]
+  beca: "https://forms.gle/KSRrQ2WpCKVKR4cn8"
   time: "https://arewemeetingyet.com/Montevideo/2022-10-11/14:00/"
   registration: "https://www.eventbrite.cl/e/conquistando-errores-en-r-tickets-431326357747"
   description: 'Debuggear o depurar los errores de tu código puede ser una tarea frustrante. Tal vez obtuviste un mensaje de error y hay que interpretarlo o tal vez el código devuelve un resultado que no es el esperado. Si bien no existe una herramienta o método mágico para identificar los errores en un código, depurar errores requiere de un proceso sistemático. En este tutorial aprenderás a utilizar funciones y herramientas que te ayudarán a depurar errores, analizando el código y haciendo preguntas necesarias que guien ese análisis.
@@ -119,8 +124,8 @@
   language: es/pt
   speakers: [17, 31, 32]
   time: "https://arewemeetingyet.com/Montevideo/2022-10-11/18:00/"
-  description: '
-  Descripción: (próximamente). <br/>'    
+  registration: "https://www.eventbrite.com/e/431683776797"
+  description: 'LatinR y R-Contributors organizan en conjunto este traslatón para traducir mensajes de R base al español y al portugués.'    
   
 
 # 
