@@ -46,7 +46,9 @@
                                         <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title.[lang] }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                                             <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                                             <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
-                                                <h5 class="slot-title" itemprop="name">{{ session_title }}</h5>
+                                                <h5 class="slot-title" itemprop="name">{{ session_title }} </h5>
+                                                <h6> {{ session.category }} </h6>
+                                         
                                                 <span class="slot-language">{{session.language | upcase}}</span>
                                                 <ul class="slot-speakers">
                                                     {% for session_speaker in session.speakers %}

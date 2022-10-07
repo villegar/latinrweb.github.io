@@ -30,20 +30,278 @@
     - {
       startTime:  "10:00",
       endTime:    "13:00",
-      sessionIds: [004]
+      sessionIds: [014]
     }
     - {
       startTime:  "14:00",
       endTime:    "17:00",
-      sessionIds: [005]
+      sessionIds: [015]
     }       
     - {
       startTime:  "18:00",
       endTime:    "21:00",
-      sessionIds: [006]
+      sessionIds: [016]
     }    
 
 
+
+
+### INAUGURACIÓN ##
+-
+  date: "2022-10-12"
+  dateReadable: {en: "october 12th", es: "12 de octubre", pt: "12 de outubro"}
+  tracks:
+    - {title: {en: "Wednesday", es: "Miércoles", pt: "Quarta-feira"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "10:00",
+      endTime:    "10:15",
+      sessionIds: [021]
+    }
+    - {
+      startTime:  "10:15",
+      endTime:    "10:30",
+      sessionIds: [022]
+    }
+    - {
+      startTime:  "10:30",
+      endTime:    "10:45",
+      sessionIds: [023]
+    }
+    - {
+      startTime:  "10:45",
+      endTime:    "10:50",
+      sessionIds: [024]
+    }    
+    - {
+      startTime:  "10:50",
+      endTime:    "11:15",
+      sessionIds: [025]
+    } 
+    - {
+      startTime:  "11:40",
+      endTime:    "11:55",
+      sessionIds: [026]
+    }    
+    - {
+      startTime:  "11:55",
+      endTime:    "12:00",
+      sessionIds: [027]
+    }        
+
+    - {
+      startTime:  "12:00",
+      endTime:    "12:15",
+      sessionIds: [028]
+    }        
+    - {
+      startTime:  "12:15",
+      endTime:    "12:30",
+      sessionIds: [029]
+    }        
+
+    - {
+      startTime:  "14:00",
+      endTime:    "15:00",
+      sessionIds: [030]
+    }   
+    - {
+      startTime:  "15:05",
+      endTime:    "15:30",
+      sessionIds: [031]
+    }       
+    - {
+      startTime:  "15:30",
+      endTime:    "15:35",
+      sessionIds: [032]
+    }           
+    - {
+      startTime:  "15:35",
+      endTime:    "15:45",
+      sessionIds: [033]
+    } 
+    - {
+      startTime:  "16:00",
+      endTime:    "16:15",
+      sessionIds: [034]
+    }   
+    - {
+      startTime:  "16:15",
+      endTime:    "16:30",
+      sessionIds: [035]
+    } 
+    - {
+      startTime:  "16:30",
+      endTime:    "16:45",
+      sessionIds: [036]
+    }     
+    - {
+      startTime:  "16:45",
+      endTime:    "16:50",
+      sessionIds: [037]
+    } 
+    
+    - {
+      startTime:  "16:50",
+      endTime:    "17:10",
+      sessionIds: [038]
+    }   
+    
+
+-
+  date: "2022-10-13"
+  dateReadable: {en: "october 13th", es: "13 de octubre", pt: "13 de outubro"}
+  tracks:
+    - {title: {en: "Thursday", es: "Jueves", pt: "Quinta-feira"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "09:00",
+      endTime:    "10:00",
+      sessionIds: [040]
+    }
+    - {
+      startTime:  "10:15",
+      endTime:    "10:20",
+      sessionIds: [041]
+    }
+    - {
+      startTime:  "10:20",
+      endTime:    "10:35",
+      sessionIds: [042]
+    }
+    - {
+      startTime:  "10:35",
+      endTime:    "10:50",
+      sessionIds: [043]
+    }    
+    - {
+      startTime:  "10:50",
+      endTime:    "10:55",
+      sessionIds: [044]
+    } 
+    - {
+      startTime:  "10:55",
+      endTime:    "11:15",
+      sessionIds: [045]
+    }    
+    - {
+      startTime:  "11:35",
+      endTime:    "11:40",
+      sessionIds: [046]
+    }        
+
+    - {
+      startTime:  "11:40",
+      endTime:    "11:45",
+      sessionIds: [047]
+    }        
+    - {
+      startTime:  "11:45",
+      endTime:    "12:00",
+      sessionIds: [048]
+    }        
+
+    - {
+      startTime:  "12:00",
+      endTime:    "12:15",
+      sessionIds: [049]
+    }   
+    
+-
+  date: "2022-10-14"
+  dateReadable: {en: "october 14th", es: "14 de octubre", pt: "14 de outubro"}
+  tracks:
+    - {title: {en: "Friday", es: "Viernes", pt: "Sexta-feira"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "10:00",
+      endTime:    "10:15",
+      sessionIds: [050]
+    }
+    - {
+      startTime:  "10:15",
+      endTime:    "10:30",
+      sessionIds: [051]
+    }
+    - {
+      startTime:  "10:30",
+      endTime:    "10:45",
+      sessionIds: [052]
+    }
+    - {
+      startTime:  "10:45",
+      endTime:    "11:00",
+      sessionIds: [053]
+    }    
+    - {
+      startTime:  "11:20",
+      endTime:    "11:25",
+      sessionIds: [054]
+    } 
+    - {
+      startTime:  "11:25",
+      endTime:    "11:40",
+      sessionIds: [055]
+    }    
+    - {
+      startTime:  "11:40",
+      endTime:    "11:45",
+      sessionIds: [056]
+    }        
+
+    - {
+      startTime:  "11:45",
+      endTime:    "11:50",
+      sessionIds: [057]
+    }        
+    - {
+      startTime:  "11:50",
+      endTime:    "12:10",
+      sessionIds: [058]
+    }        
+
+    - {
+      startTime:  "17:15",
+      endTime:    "17:30",
+      sessionIds: [059]
+    }   
+    - {
+      startTime:  "17:30",
+      endTime:    "17:45",
+      sessionIds: [060]
+    }       
+    - {
+      startTime:  "17:45",
+      endTime:    "17:50",
+      sessionIds: [061]
+    }           
+    - {
+      startTime:  "17:50",
+      endTime:    "18:05",
+      sessionIds: [062]
+    } 
+    - {
+      startTime:  "18:05",
+      endTime:    "18:20",
+      sessionIds: [063]
+    }   
+    - {
+      startTime:  "18:20",
+      endTime:    "18:45",
+      sessionIds: [064]
+    } 
+    - {
+      startTime:  "19:00",
+      endTime:    "20:00",
+      sessionIds: [065]
+    }     
+    - {
+      startTime:  "20:00",
+      endTime:    "20:15",
+      sessionIds: [066]
+    } 
+ 
+    
 ## HACKATHON ## 
 -
   date: "2022-10-15"
@@ -54,255 +312,5 @@
     - {
       startTime:  "10:00",
       endTime:    "12:00",
-      sessionIds: [007]
+      sessionIds: [999]
     }
-
-
-
-# -
-#   # INAUGURACIÓN
-#   date: "2021-11-10"
-#   dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
-#   tracks:
-#     - {title: {en: "LatinR Start", es: "Inicio del LatinR", pt: "Inicio do LatinR"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "11:00",
-#       endTime:    "11:15",
-#       sessionIds: [994]
-#     }
-# 
-# -
-#   # DESARROLLO DE PAQUETES
-#   date: "2021-11-10"
-#   dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
-#   tracks:
-#     - {title: {en: "Package development", es: "Desarrollo de paquetes", pt: "Desenvolvimento de pacotes"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "11:15",
-#       endTime:    "11:50",
-#       sessionIds: [011,016,024,030]
-#     }
-#     - {
-#       startTime:  "",
-#       endTime:    "",
-#       sessionIds: [035,995]
-#     }
-# 
-# -
-#   # APLICACIONES: CIENCIAS SOCIALES / POLÍTICAS PÚBLICAS / DATOS GUBERNAMENTALES
-#   date: "2021-11-10"
-#   dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
-#   tracks:
-#     - {title: {en: "Packages, Models and Applications in Science", es: "Paquetes, Modelos, y Applicaciones en Ciencias", pt: "Pacotes, Modelos e Aplicações Científicas"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "12:00",
-#       endTime:    "13:00",
-#       sessionIds: [012,022,025,036]
-#     }
-#     - {
-#       startTime:  "",
-#       endTime:    "",
-#       sessionIds: [039,054,047,031]
-#     }
-#     - {
-#       startTime:  "",
-#       endTime:    "",
-#       sessionIds: [034,995]
-#     }
-# 
-# -
-#   # APLICACIONES SALUD
-#   date: "2021-11-10"
-#   dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
-#   tracks:
-#     - {title: {en: "Applications in public health", es: "Applicaciones en salud pública", pt: "Aplicações em saúde pública"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "14:20",
-#       endTime:    "14:50",
-#       sessionIds: [013,048,061,033]
-#     }
-# 
-# -
-#   # ENSEÑANZA
-#   date: "2021-11-10"
-#   dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
-#   tracks:
-#     - {title: {en: "Teaching R", es: "Enseñanza de R", pt: "Ensino de R"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "15:00",
-#       endTime:    "15:30",
-#       sessionIds: [015,017,037,045]
-#     }
-#     - {
-#       startTime:  "",
-#       endTime:    "",
-#       sessionIds: [053,995,995,995]
-#     }
-# 
-# -
-#   # COMUNIDAD
-#   date: "2021-11-10"
-#   dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
-#   tracks:
-#     - {title: {en: "R community", es: "Comunidad de R", pt: "Comunidade de R"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "15:35",
-#       endTime:    "16:00",
-#       sessionIds: [050,043,995,995]
-#     }
-# 
-# -
-#    # INVESTIGACIÓN Y COMUNICACIÓN DE RESULTADOS
-#    date: "2021-11-10"
-#    dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
-#    tracks:
-#      - {title: {en: "Research and communication of results", es: "Investigación y comunicación de resultados", pt: "Pesquisa e divulgação de resultados"} , color: "#90be4e"}
-#    timeslots:
-#     - {
-#       startTime:  "16:10",
-#       endTime:    "16:40",
-#       sessionIds: [044,056,029,049]
-#     }
-# 
-# -
-#   # DATOS ESPACIALES
-#   date: "2021-11-11"
-#   dateReadable: {en: "november 11th", es: "11 de noviembre", pt: "11 de novembro"}
-#   tracks:
-#     - {title: {en: "Spatial data", es: "Datos espaciales", pt: "Dados espaciais"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "10:15",
-#       endTime:    "10:45",
-#       sessionIds: [038,028,042,009]
-#     }
-# 
-# -
-#   # KEYNOTE
-#   date: "2021-11-11"
-#   dateReadable: {en: "november 11th", es: "11 de noviembre", pt: "11 de novembro"}
-#   tracks:
-#     - {title: {en: "Invited talk", es: "Charla invitada", pt: "Palestra convidada"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "11:00",
-#       endTime:    "12:00",
-#       sessionIds: [1111]
-#     }
-# 
-# -
-#   # PERIODISMO DE DATOS, DATOS ABIERTOS Y VISUALIZACIÓN
-#   date: "2021-11-11"
-#   dateReadable: {en: "november 11th", es: "11 de noviembre", pt: "11 de novembro"}
-#   tracks:
-#     - {title: {en: "Data journalism, open data and visualization", es: "Periodismo de datos, datos abiertos y visualización", pt: "Jornalismo de dados, dados abertos e visualização"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "12:10",
-#       endTime:    "12:40",
-#       sessionIds: [057,052,058,027]
-#     }
-# 
-# -
-#   # CHARLA SPONSOR APPSILON
-#   date: "2021-11-12"
-#   dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
-#   tracks:
-#     - {title: {en: "Sponsor talk", es: "Charla de Sponsor", pt: "Palestra Sponsor"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "09:00",
-#       endTime:    "09:10",
-#       sessionIds: [065]
-#     }
-# 
-# -
-#   # KEYNOTE
-#   date: "2021-11-12"
-#   dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
-#   tracks:
-#     - {title: {en: "Invited talk", es: "Charla invitada", pt: "Palestra convidada"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "09:10",
-#       endTime:    "10:00",
-#       sessionIds: [993]
-#     }
-# 
-# -
-#   # R EN PRODUCCIÓN / COMPUTACIÓN / FLUJOS DE TRABAJO
-#   date: "2021-11-12"
-#   dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
-#   tracks:
-#     - {title: {en: "Production, computation and workflows", es: "R en producción, computación y flujos de trabajo", pt: "R em produção, computação e fluxos de trabalho"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "10:10",
-#       endTime:    "10:50",
-#       sessionIds: [005,046,059,055]
-#     }
-#     - {
-#       startTime:  "",
-#       endTime:    "",
-#       sessionIds: [010,995]
-#     }
-# 
-# -
-#   # DESARROLLO DE PAQUETES Y MODELOS
-#   date: "2021-11-12"
-#   dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
-#   tracks:
-#     - {title: {en: "Package development and models", es: "Desarrollo de paquetes y modelos", pt: "Desenvolvimento de pacotes e modelos"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "11:00",
-#       endTime:    "12:00",
-#       sessionIds: [007,019,032,008]
-#     }
-#     - {
-#       startTime:  "",
-#       endTime:    "",
-#       sessionIds: [063,023,018,020]
-#     }
-#     - {
-#       startTime:  "",
-#       endTime:    "",
-#       sessionIds: [006,995]
-#     }
-# 
-# -
-#   # DESARROLLO DE PAQUETES Y APLICACIONES EN CIENCIAS
-#   date: "2021-11-12"
-#   dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
-#   tracks:
-#     - {title: {en: "Package development and applications in science", es: "Desarrollo de paquetes y aplicaciones en ciencias", pt: "Desenvolvimento de pacotes e aplicações em ciência"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "12:10",
-#       endTime:    "12:40",
-#       sessionIds: [026,051,060,014]
-#     }
-#     - {
-#       startTime:  "",
-#       endTime:    "",
-#       sessionIds: [041,995,995,995]
-#     }
-# 
-# -
-#   # CLOSING
-#   date: "2021-11-12"
-#   dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
-#   tracks:
-#     - {title: {en: "End of LatinR", es: "Fin de LatinR", pt: "Fim de LatinR"} , color: "#90be4e"}
-#   timeslots:
-#     - {
-#       startTime:  "12:40",
-#       endTime:    "13:00",
-#       sessionIds: [997]
-#     }

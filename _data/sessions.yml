@@ -1,30 +1,30 @@
-### Strings ###
-- id: 999
-  title: 'Coffee break'
-  service: true
-
-- id: 998
-  title: {en: "Lunch", es: "Almuerzo", pt: "Almoço"}
-  service: true
-
-- id: 997
-  title: {en: "Closing", es: "Cierre", pt: "Encerramento"}
-  service: true
-
-- id: 996
-  title: {en: "Accreditation", es: "Acreditación", pt: "Vínculo"}
-  service: true
-
-- id: 995
-  # blank entry
-  title: ""
-  # language:
-  # speakers:
-  # description:
-
-- id: 994
-  title: {en: "Inauguration", es: "Inauguración", pt: "Inauguração"}
-  service: true
+# ### Strings ###
+# - id: 999
+#   title: 'Coffee break'
+#   service: true
+# 
+# - id: 998
+#   title: {en: "Lunch", es: "Almuerzo", pt: "Almoço"}
+#   service: true
+# 
+# - id: 997
+#   title: {en: "Closing", es: "Cierre", pt: "Encerramento"}
+#   service: true
+# 
+# - id: 996
+#   title: {en: "Accreditation", es: "Acreditación", pt: "Vínculo"}
+#   service: true
+# 
+# - id: 995
+#   # blank entry
+#   title: ""
+#   # language:
+#   # speakers:
+#   # description:
+# 
+# - id: 994
+#   title: {en: "Inauguration", es: "Inauguración", pt: "Inauguração"}
+#   service: true
 
 # - id: 993
 # # keynote
@@ -77,7 +77,7 @@
   description: 'Hoy en día tenemos diversas opciones para ver, editar, y ejecutar nuestro código de R. Gracias a los entornos de programación (IDEs por sus siglas en inglés), es posible ir mucho más allá de archivos de texto. Los IDEs reconocen la sintaxis del lenguaje y nos brindan herramientas para interactuar eficientemente con todos los elementos involucrados en un flujo de trabajo. Para trabajar en R, uno de los IDEs más utilizados es RStudio. Este tutorial tiene como objetivo dar a conocer herramientas y atajos para editar, modificar y ejecutar código en RStudio de manera eficiente y cuyo resultado final sea más legible, organizado, y fácil de usar. Para aumentar la productividad, se verán atajos de teclado (por ejemplo, para insertar operadores comunes o navegar entre pestañas) y herramientas de edición, evitando así cortar/pegar y el uso excesivo del ratón o panel táctil. Además, el tutorial cubre ‘addins’ externos para estilizar y estructurar código, o agregar anotaciones sobre los paquetes que se están usando. Finalmente, se abordará la personalización del entorno, incluyendo la apariencia del texto, colores, y la organización de paneles y ventanas.'  
   
 
-- id: 004
+- id: 014
   title: "Introduction to Text Analysis with R."
   language: en
   speakers: [29]
@@ -99,7 +99,7 @@
   (specially for non-English speakers). Finally, we will enter into some basic machine 
   learning, like topic modeling."
 
-- id: 005
+- id: 015
   title: "Conquistando errores en R."
   language: es
   speakers: [10]
@@ -109,17 +109,261 @@
   description: 'Debuggear o depurar los errores de tu código puede ser una tarea frustrante. Tal vez obtuviste un mensaje de error y hay que interpretarlo o tal vez el código devuelve un resultado que no es el esperado. Si bien no existe una herramienta o método mágico para identificar los errores en un código, depurar errores requiere de un proceso sistemático. En este tutorial aprenderás a utilizar funciones y herramientas que te ayudarán a depurar errores, analizando el código y haciendo preguntas necesarias que guien ese análisis.
   Cómo con cualquier tarea asociada a la programación, la depuración de errores es una habilidad que requiere práctica, por lo que en el tutorial tendrás la posibilidad de seguir los ejemplos, resolver nuevos problemas aplicando las herramientas vistas, discutir en grupo y hacer todas las preguntas que tengas.'
 
-- id: 006
+- id: 016
   title: "Creating Shiny Apps with Rhino: the new framework Shiny apps."
   language: en
   speakers: [30]
   time: "https://arewemeetingyet.com/Montevideo/2022-10-11/18:00/"
-  registration: "https://www.eventbrite.cl/e/creating-shiny-apps-with-rhino-the-new-framework-shiny-apps-tickets-431336387747"
+  registration: "https://www.eventbrite.cl/e/creating-Shiny-apps-with-rhino-the-new-framework-Shiny-apps-tickets-431336387747"
   description: 'En representación de nuestro sponsor Appsilon, Kamil Żyła nos presentará Rhino, la nueva herramienta para crear ShinyApps. Representing our sponsor Appsilon, Kamil Żyła will present Rhino, the new tool for creating ShinyApps. Tutorial en inglés. Tutorial in English. '    
   
-## HACKATON ##
+  
 
-- id: 007
+
+### MIERCOLES ###
+
+- id: 021
+  title: "<b>Inauguración</b>"
+  language: es/pt/en
+  # speakers: [17, 31, 32]
+  time: "https://arewemeetingyet.com/Montevideo/2022-10-12/10:00/"
+  registration: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb"
+  description: '¡No te pierdas la quinta edición de LatinR! Este año nos reunimos de manera virtual para aprender sobre los últimos desarrollos de R en nuestra región.'    
+ 
+- id: 022
+  title: "De los datos a la acción: Shiny como herramienta para la divulgación y el cambio social"
+  language: es
+  category: 'Desarrollo de aplicaciones con Shiny 1'    
+  
+- id: 023
+  title: "Gestor Logístico para un sistema de bicicletas compartidas:Caso Santiago de Chile"
+  language: es
+  category: 'Desarrollo de aplicaciones con Shiny 1'    
+    
+- id: 024
+  title: "mapeAr: visualizando información geográfica del turismo."
+  language: es
+  category: 'Desarrollo de aplicaciones con Shiny 1'    
+  
+- id: 025
+  title: "Sesión de preguntas y diálogo con presentadores"
+  language: es
+  category: 'Desarrollo de aplicaciones con Shiny 1' 
+  
+  
+- id: 026
+  title: "d4t4tur: Uso de R para las estadísticas de tuRismo en Argentina"
+  language: es
+  category: 'Uso de datos públicos y estadísticas oficiales 1'   
+
+- id: 027
+  title: "Repositorio integrado de indicadores de gobiernos locales en Chile"
+  language: es
+  category: 'Uso de datos públicos y estadísticas oficiales 1'   
+  
+- id: 028
+  title: "API de codificación automática para la producción de estadísticas oficiales"
+  language: es
+  category: 'Uso de datos públicos y estadísticas oficiales 1'   
+  
+- id: 029
+  title: "Sesión de preguntas y diálogo con presentadores"
+  language: es
+  category: 'Uso de datos públicos y estadísticas oficiales 1'   
+  
+- id: 030
+  title: "<b>Keynote: ¿Cómo convertirse en desarrolladoR en dos pasos?</b>"
+  language: es
+  speakers: [33]
+      
+
+- id: 031
+  title: "Aprendizaje automático para el estudio de eventos políticos: Aplicación de modelos semisupervisados en archivos de América Latina (Bastián González-Bustamante)"
+  language: es
+  category: 'Aplicaciones en ciencias sociales, artes y humanidades'   
+  
+- id: 032
+  title: "Uso de R en la exploración de la investigación artística"
+  language: es
+  category: 'Aplicaciones en ciencias sociales, artes y humanidades'    
+  
+- id: 033
+  title: "Sesión de preguntas y diálogo con presentadores"
+  language: es
+  category: 'Aplicaciones en ciencias sociales, artes y humanidades'      
+  
+- id: 034
+  title: "Un pequeño ecosistema de paquetes de R potenciado por fastmatrix"
+  language: es
+  category: 'Desarrollo de paquetes 1'       
+
+- id: 035
+  title: "La importancia del código fuente y el paquete annotater para añadir contexto sobre librerías adicionales"
+  language: es
+  category: 'Desarrollo de paquetes 1'  
+  
+- id: 036
+  title: "plyLoadR, a new htmlwidget for mesh evolution visualization"
+  language: es
+  category: 'Desarrollo de paquetes 1'  
+  
+- id: 037
+  title: "CRAN Task Views para Guiar a usuaries de paquetes de R"
+  language: es
+  category: 'Desarrollo de paquetes 1'   
+  
+- id: 038
+  title: "Sesión de preguntas y diálogo con presentadores"
+  language: es
+  category: 'Desarrollo de paquetes 1'     
+  
+  
+  
+## JUEVES ##
+
+- id: 040
+  title: "<b>Keynote: A tour of the Apache Arrow ecosystem for the R community</b>"
+  language: en
+  speakers: [34]   
+
+- id: 041
+  title: "Movilidad Google para predecir la Demanda de Combustible con R"
+  language: es
+  category: 'Uso de datos públicos y estadísticas oficiales 2'  
+
+- id: 042
+  title: "Predicción de robos mediante un enfoque espaciotemporal"
+  language: es
+  category: 'Uso de datos públicos y estadísticas oficiales 2'    
+
+- id: 043
+  title: "srvyuRu: Un paquete para procesar encuestas mediante metaprogramación"
+  language: es
+  category: 'Uso de datos públicos y estadísticas oficiales 2'  
+
+- id: 044
+  title: "Reporte automatizado para el monitoreo de tiempos garantizados de patologías GES para hospitales públicos de Chile"
+  language: es
+  category: 'Uso de datos públicos y estadísticas oficiales 2'    
+
+- id: 045
+  title: "Sesión de preguntas y diálogo con presentadores"
+  language: es
+  category: 'Uso de datos públicos y estadísticas oficiales 2'  
+
+
+- id: 046
+  title: "Medición territorial de las principales cadenas agropecuarias del departamento Paraná, provincia de Entre Ríos, Argentina"
+  language: es
+  category: 'Desarrollo de aplicaciones con Shiny 2' 
+  
+- id: 047
+  title: "Sistema de consulta de datos e información agrometeorológica y agroclimática para la provincia de La Pampa"
+  language: es
+  category: 'Desarrollo de aplicaciones con Shiny 2'   
+
+- id: 048
+  title: "Desafíos en la creación de Shiny apps para la difusión de datos: diagramación, visualización y estabilidad y mantenimiento"
+  language: es
+  category: 'Desarrollo de aplicaciones con Shiny 2'     
+  
+- id: 049
+  title: "Sesión de preguntas y diálogo con presentadores"
+  language: es
+  category: 'Desarrollo de aplicaciones con Shiny 2'    
+    
+  
+### VIERNES ###      
+
+- id: 050
+  title: "{Sknifedatar} Un paquete para el modelado y visualización de múltiples series de tiempo"
+  language: es
+  category: 'Desarrollo de paquetes 2'    
+  
+- id: 051
+  title: "Analizando la estructura de mercado, competencia y comportamiento con R y *concstats*"
+  language: es
+  category: 'Desarrollo de paquetes 2'      
+
+- id: 052
+  title: "GridDER: Detecção e avaliação de dados de grade no R"
+  language: pt
+  category: 'Desarrollo de paquetes 2'     
+
+- id: 053
+  title: "Sesión de preguntas y diálogo con presentadores"
+  language: "es/pt"
+  category: 'Desarrollo de paquetes 2'  
+  
+- id: 054
+  title: "Estudio de algunos métodos de reservas técnicas en condiciones de incertidumbre para seguros de no vida"
+  language: "es"
+  category: 'Aplicaciones y modelos'    
+  
+- id: 055
+  title: "Estudio de algunas propiedades del método de clustering k-modes mediante remuestreo"
+  language: "es"
+  category: 'Aplicaciones y modelos'     
+  
+- id: 056
+  title: "Multiweb: análisis de redes ecológicas"
+  language: "es"
+  category: 'Aplicaciones y modelos' 
+  
+- id: 057
+  title: "Visualizing univariate and multivariate impacts of TuMV infection on host physiology and morphology in Arabidopsis"
+  language: "es"
+  category: 'Aplicaciones y modelos'   
+  
+- id: 058
+  title: "Sesión de preguntas y diálogo con presentadores"
+  language: "es"
+  category: 'Aplicaciones y modelos' 
+  
+- id: 059
+  title: "STRANGE-R METHODOLOGIES: Ensinando R de Trás-pra-Frente no serviço público"
+  language: "pt"
+  category: 'Enseñanza y comunidades'   
+  
+- id: 060
+  title: "Cómo ganarse la vida enseñando R"
+  language: "es"
+  category: 'Enseñanza y comunidades' 
+  
+- id: 061
+  title: "10 reglas para organizar un Club de Lectura (on-line) exitoso"
+  language: "es"
+  category: 'Enseñanza y comunidades'   
+  
+- id: 062
+  title: "Teaching Community-Engaged Data Science"
+  language: "en"
+  category: 'Enseñanza y comunidades'     
+ 
+- id: 063
+  title: "Organizing inclusive conferences with the community"
+  language: "en"
+  category: 'Enseñanza y comunidades'  
+  
+- id: 064
+  title: "Sesión de preguntas y diálogo con presentadores"
+  language: "es/pt/en"
+  category: 'Enseñanza y comunidades'    
+  
+- id: 065
+  title: "<b>Keynote: 10 years of R-Ladies</b>"
+  language: en
+  speakers: [35]  
+  
+- id: 066
+  title: "Cierre"
+  language: es/pt/en
+   
+  
+   
+### HACKATON ###
+
+- id: 999
   title: "R translatón / Hackaton de tradução do R"
   language: es/pt
   speakers: [17, 31, 32]
@@ -127,365 +371,3 @@
   registration: "https://www.eventbrite.com/e/431683776797"
   description: 'LatinR y R-Contributors organizan en conjunto este traslatón para traducir mensajes de R base al español y al portugués.'    
   
-
-# 
-# ### Talks ###
-# - id: 007
-#   title: "missMSPC: un paquete de herramientas gráficas para aplicar MSPC con datos faltantes"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/11:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# 
-# - id: 032
-#   title: "QR: un paquete para la factorización QR sin rotación"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/11:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 008
-#   title: Estimación de un modelo computacional mediante computación Bayesiana Aproximada
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/11:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 063
-#   title: Feature and variable selection in complex data classification
-#   language: en
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/11:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 023
-#   title: "Optimizando @RStatsJobsBot: un modelo de aprendizaje automático para clasificar tweets de ofertas de empleo"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/11:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# 
-# 
-# - id: 020
-#   title: Como implementar algunos modelos de imputación múltiple para datos de panel
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/11:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 006
-#   title: Años potenciales de vida perdidos por siniestros de tránsito en Uruguay
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/11:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 026
-#   title: "agromet: un paquete para el análisis de datos meteorológicos"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/12:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 051
-#   title: "Rocc: gestão e análise de dados de ocorrências de espécies"
-#   language: pt
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/12:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 060
-#   title: "Interoperabilidad y grandes volúmenes de datos: como potenciar el diseño de políticas públicas basada en evidencia"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/12:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 014
-#   title: Aplicación de R para analizar la perspectiva del consumidor sobre la consistencia de alimentos
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/12:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 041
-#   title: Ensembles conformacionales de Proteínas Intrínsecamente Desordenadas moldean las velocidades de evolución dando origen a patrones conformacionales
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/12:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 011
-#   title: "Divide y vencerás: de polAr al 'polArverse'"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/11:15/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 016
-#   title: Paquete Calidad, para la evaluación de la precisión de estimaciones provenientes de encuestas de hogares
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/11:15/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 024
-#   title: "The `{botmaker}`: automatically build R-based bots, the result of creating the @RStatsJobsBot Twitter bot"
-#   language: en
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/11:15/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# 
-# 
-# - id: 035
-#   title: "speech: extracción, disponibilización y análisis de discursos parlamentarios en Uruguay"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/11:15/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 012
-#   title: "AMALIA: R, shiny y minería de texto para el análisis masivo de archivos de la dictadura uruguaya"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/12:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 022
-#   title: Análisis de la Red de Investigadores del IESTA
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/12:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 025
-#   title: "Políticas económicas frente al COVID-19: índice de Shannon para la diversidad de agendas de gobiernos locales"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/12:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 036
-#   title: Elaboración de redes analíticas interactivas con el paquete netCoin de R
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/12:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 039
-#   title: Retos y R en conteos rápidos electorales
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/12:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 054
-#   title: Análisis del tipo de consumo cultural según nivel socioeconómico de los beneficiarios del programa Pase Cultural
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/12:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# 
-# - id: 031
-#   title: "Análise exploratória de despesas com educação: avaliando impactos em um indicador de rendimento educacional"
-#   language: pt
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/12:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 034
-#   title: "Desarrollo de una herramienta predictiva de calidad de agua para la gestión: modelos de machine learning + shiny"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/12:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# 
-# - id: 013
-#   title: Uso de R en la validación de un modelo predictivo con aplicación a la enfermedad del asma
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/14:20/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 048
-#   title: "Ciencia de datos con R con impacto en salud pública: una experiencia de uso de tidyverse para la detección de embarazos"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/14:20/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 061
-#   title: ¿Por qué los funcionarios públicos de salud deberían saber R para analizar sus datos?
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/14:20/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 033
-#   title: "Estimating remaining life expectancy free of anxiety/depression in Argentina: trends and application of an alghoritmic stepwise decomposition for demographic change, 2005-18"
-#   language: pt
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/14:20/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 015
-#   title: Scaling feedback using learnr and gradethis in a introductory R course
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/15:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# 
-# 
-# - id: 037
-#   title: "Aplicaciones shiny para modelos de crecimiento de ecología de poblaciones: una propuesta simple y no simplista para animar al uso de R en cursos introductorios"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/15:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 045
-#   title: "Karel la robot enseña R: un paquete para la enseñanza de programación"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/15:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 053
-#   title: Un conjunto de paquetes para generar tutoriales interactivos para enseñar R
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/15:00/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 005
-#   title: "R en producción: aprendizajes, retos y mejores prácticas"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/10:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 046
-#   title: "Analogsea: using R for big data analytics"
-#   language: en
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/10:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 059
-#   title: IBM Cloud Functions com R
-#   language: pt
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/10:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 055
-#   title: "Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/10:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 010
-#   title: Uso de R como front-end en un datawarehouse de gestión académica universitaria
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/10:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 057
-#   title: "JFemDados: democratizando informação"
-#   language: pt
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-11/12:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 052
-#   title: "A Base dos Dados+: acesso fácil a dados públicos de qualidade"
-#   language: pt
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-11/12:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 058
-#   title: Alavancando o poder do RMarkdown com as linguagens da Web e D3.js para produzir histórias de dados envolventes sobre finanças públicas
-#   language: pt
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-11/12:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 027
-#   title: Collect and use open access World Bank data to know your country
-#   language: en
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-11/12:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 050
-#   title: "Conociendo el camino para aprender a usar R en Latinoamérica: desafíos para promover la inclusión y diversidad"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/15:35/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 043
-#   title: Juntas podemos más, corta historia de cómo la pandemia nos incentivó a colaborar
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/15:35/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# 
-# 
-# - id: 056
-#   title: Tablas reproducibles, presentables y con formato numérico local con gtsummary
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/16:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 029
-#   title: "Uso de R y Youtube para reporte de protocolos: experiencia en laboratorio de física de suelos"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/16:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 049
-#   title: Un viaje a la ecología del movimiento a través de la minería de texto
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-10/16:10/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# 
-# 
-# - id: 028
-#   title: Soy naturalista y quiero pasear en mi país, ¿dónde hay más oportunidades de llenar vacíos de información?
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-11/10:15/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 042
-#   title: "Un cuento digital desde R: cómo crear un relato situado con Leaflet"
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-11/10:15/>Horario</a> <br/>
-#   Descripción de la charla (próximamente)."
-# 
-# - id: 065
-#   title: "Desarrollo comercial de aplicaciones en Shiny (AppSilon) "
-#   language: es
-#   # speakers:
-#   description: "<a href = https://arewemeetingyet.com/Montevideo/2021-11-12/09:00/>Horario</a> <br/>
-#   https://youtu.be/zl5hR0SsBto"
-# 
-#   
-# 
-# 
