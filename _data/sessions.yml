@@ -114,7 +114,7 @@
   language: en
   speakers: [30]
   time: "https://arewemeetingyet.com/Montevideo/2022-10-11/18:00/"
-  registration: "https://www.eventbrite.cl/e/creating-Shiny-apps-with-rhino-the-new-framework-Shiny-apps-tickets-431336387747"
+  registration: "https://www.eventbrite.cl/e/creating-shiny-apps-with-rhino-the-new-framework-shiny-apps-tickets-431336387747"
   description: 'En representación de nuestro sponsor Appsilon, Kamil Żyła nos presentará Rhino, la nueva herramienta para crear ShinyApps. Representing our sponsor Appsilon, Kamil Żyła will present Rhino, the new tool for creating ShinyApps. Tutorial en inglés. Tutorial in English. '    
   
   
@@ -230,6 +230,7 @@
   title: "Movilidad Google para predecir la Demanda de Combustible con R"
   language: es
   category: 'Uso de datos públicos y estadísticas oficiales 2'  
+
 
 - id: 042
   title: "Predicción de robos mediante un enfoque espaciotemporal"
