@@ -146,4 +146,39 @@
   id: 35
   name: "Gabriela"
   surname: "de Queiroz"     
+
+-
+  id: 36
+  name: "Alicia Valentina"
+  surname: "Franco Boscan"       
  
+-
+  id: 37
+  name: "María Monserrat"
+  surname: "Pérez Villanueva"     
+  
+-
+  id: 38
+  name: "Jorge Ruiz"
+  surname: "Reyes" 
+  
+-
+  id: 39
+  name: "Juan"
+  surname: "Venegas Gutierrez" 
+  
+-
+  id: 40
+  name: "Moira"
+  surname: "Miranda MonteAlegre"  
+  
+  
+-
+  id: 41
+  name: "Elián"
+  surname: "Soutullo" 
+  
+-
+  id: 42
+  name: "Juan Pablo"
+  surname: "Ruiz Nicolini"    

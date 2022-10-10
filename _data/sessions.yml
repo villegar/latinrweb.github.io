@@ -125,7 +125,6 @@
 - id: 021
   title: "<b>Inauguración</b>"
   language: es/pt/en
-  # speakers: [17, 31, 32]
   time: "https://arewemeetingyet.com/Montevideo/2022-10-12/10:00/"
   registration: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb"
   description: '¡No te pierdas la quinta edición de LatinR! Este año nos reunimos de manera virtual para aprender sobre los últimos desarrollos de R en nuestra región.'    
@@ -134,16 +133,19 @@
   title: "De los datos a la acción: Shiny como herramienta para la divulgación y el cambio social"
   language: es
   category: 'Desarrollo de aplicaciones con Shiny 1'    
-  
+  speakers: [36, 37, 38]
+
 - id: 023
-  title: "Gestor Logístico para un sistema de bicicletas compartidas:Caso Santiago de Chile"
+  title: "Gestor Logístico para un sistema de bicicletas compartidas: Caso Santiago de Chile"
   language: es
   category: 'Desarrollo de aplicaciones con Shiny 1'    
-    
+  speakers: [39, 40, 8]
+
 - id: 024
   title: "mapeAr: visualizando información geográfica del turismo."
   language: es
   category: 'Desarrollo de aplicaciones con Shiny 1'    
+  speakers: [41, 42]
   
 - id: 025
   title: "Sesión de preguntas y diálogo con presentadores"
