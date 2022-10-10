@@ -181,4 +181,124 @@
 -
   id: 42
   name: "Juan Pablo"
-  surname: "Ruiz Nicolini"    
+  surname: "Ruiz Nicolini"  
+  
+-
+  id: 43
+  name: "Pablo"
+  surname: "Tiscornia"  
+
+-
+  id: 44
+  name: "Bastián"
+  surname: "González-Bustamante"   
+  
+-
+  id: 45
+  name: "Diego"
+  surname: "Aguilar"    
+  
+-
+  id: 46
+  name: "Klaus"
+  surname: "Lehmann"  
+
+-
+  id: 47
+  name: "Ignacio"
+  surname: "Agloni"  
+  
+-
+  id: 48
+  name: "Ricardo"
+  surname: "Pizarro" 
+  
+  
+-
+  id: 49
+  name: "Alejandra"
+  surname: "Tapia"   
+  
+-
+  id: 50
+  name: "Mauricio"
+  surname: "Román" 
+  
+-
+  id: 51
+  name: "Felipe"
+  surname: "Osorio"   
+
+-
+  id: 52
+  name: "Alonso"
+  surname: "Ogueda"  
+  
+-
+  id: 53
+  name: "Lucio Enrique"
+  surname: "Cornejo Ramírez"    
+  
+  
+-
+  id: 54
+  name: "Evelyn Patricia"
+  surname: "Gutierrez Ayala"    
+  
+  
+-
+  id: 55
+  name: "Benjamin"
+  surname: "Castañeda Aphan" 
+  
+  
+-
+  id: 56
+  name: "Sylvie"
+  surname: "Treuillet"      
+
+
+-
+  id: 57
+  name: "Rocío"
+  surname: "Joo"      
+
+
+-
+  id: 58
+  name: "Nathalie"
+  surname: "Vialaneix"      
+   
+   
+   
+-
+  id: 59
+  name: "Roger"
+  surname: "Bivand"    
+  
+-
+  id: 60
+  name: "Dirk"
+  surname: "Eddelbuettel"      
+  
+-
+  id: 61
+  name: "David"
+  surname: "Meyer"      
+  
+-
+  id: 62
+  name: "Mathieu"
+  surname: "Basille"        
+  
+  
+-
+  id: 63
+  name: "Matthew"
+  surname: "E. Boone"      
+  
+-
+  id: 64
+  name: "Achim"
+  surname: "Zeileis"        
+  

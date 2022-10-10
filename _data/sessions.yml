@@ -157,16 +157,20 @@
   title: "d4t4tur: Uso de R para las estadísticas de tuRismo en Argentina"
   language: es
   category: 'Uso de datos públicos y estadísticas oficiales 1'   
-
+  speakers: [42, 43]
+  
+  
 - id: 027
   title: "Repositorio integrado de indicadores de gobiernos locales en Chile"
   language: es
   category: 'Uso de datos públicos y estadísticas oficiales 1'   
+  speakers: [44, 45]
   
 - id: 028
   title: "API de codificación automática para la producción de estadísticas oficiales"
   language: es
   category: 'Uso de datos públicos y estadísticas oficiales 1'   
+  speakers: [46, 47, 48]
   
 - id: 029
   title: "Sesión de preguntas y diálogo con presentadores"
@@ -182,12 +186,14 @@
 - id: 031
   title: "Aprendizaje automático para el estudio de eventos políticos: Aplicación de modelos semisupervisados en archivos de América Latina (Bastián González-Bustamante)"
   language: es
-  category: 'Aplicaciones en ciencias sociales, artes y humanidades'   
+  category: 'Aplicaciones en ciencias sociales, artes y humanidades'  
+  speakers: [44]
   
 - id: 032
   title: "Uso de R en la exploración de la investigación artística"
   language: es
-  category: 'Aplicaciones en ciencias sociales, artes y humanidades'    
+  category: 'Aplicaciones en ciencias sociales, artes y humanidades'  
+  speakers: [49, 50]
   
 - id: 033
   title: "Sesión de preguntas y diálogo con presentadores"
@@ -197,29 +203,34 @@
 - id: 034
   title: "Un pequeño ecosistema de paquetes de R potenciado por fastmatrix"
   language: es
-  category: 'Desarrollo de paquetes 1'       
+  category: 'Desarrollo de paquetes 1'   
+  speakers: [51, 52]
 
 - id: 035
   title: "La importancia del código fuente y el paquete annotater para añadir contexto sobre librerías adicionales"
   language: es
   category: 'Desarrollo de paquetes 1'  
+  speakers: [8]
+  
   
 - id: 036
   title: "plyLoadR, a new htmlwidget for mesh evolution visualization"
   language: es
   category: 'Desarrollo de paquetes 1'  
+  speakers: [53, 54, 55, 56]
   
 - id: 037
   title: "CRAN Task Views para Guiar a usuaries de paquetes de R"
   language: es
   category: 'Desarrollo de paquetes 1'   
+  speakers: [57, 58, 59, 60, 61, 62, 63, 64]
   
 - id: 038
   title: "Sesión de preguntas y diálogo con presentadores"
   language: es
-  category: 'Desarrollo de paquetes 1'     
+  category: 'Desarrollo de paquetes 1' 
   
-  
+
   
 ## JUEVES ##
 
