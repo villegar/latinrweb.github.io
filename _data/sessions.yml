@@ -243,7 +243,7 @@
   title: "Movilidad Google para predecir la Demanda de Combustible con R"
   language: es
   category: 'Uso de datos públicos y estadísticas oficiales 2'  
-  speakes: [65, 66, 67, 68]
+  speakers: [65, 66, 67, 68]
 
 - id: 042
   title: "Predicción de robos mediante un enfoque espaciotemporal"
@@ -300,46 +300,55 @@
   title: "{Sknifedatar} Un paquete para el modelado y visualización de múltiples series de tiempo"
   language: es
   category: 'Desarrollo de paquetes 2'    
+  speakers: [83, 84]  
   
 - id: 051
   title: "Analizando la estructura de mercado, competencia y comportamiento con R y *concstats*"
   language: es
   category: 'Desarrollo de paquetes 2'      
+  speakers: [85]  
 
 - id: 052
   title: "GridDER: Detecção e avaliação de dados de grade no R"
   language: pt
-  category: 'Desarrollo de paquetes 2'     
+  category: 'Desarrollo de paquetes 2' 
+  speakers: [86]  
 
 - id: 053
   title: "Sesión de preguntas y diálogo con presentadores"
   language: "es/pt"
-  category: 'Desarrollo de paquetes 2'  
+  category: 'Desarrollo de paquetes 2' 
   
 - id: 054
   title: "Estudio de algunos métodos de reservas técnicas en condiciones de incertidumbre para seguros de no vida"
   language: "es"
-  category: 'Aplicaciones y modelos'    
+  category: 'Aplicaciones y modelos'  
+  speakers: [105, 106, 107]  
   
 - id: 055
   title: "Estudio de algunas propiedades del método de clustering k-modes mediante remuestreo"
   language: "es"
-  category: 'Aplicaciones y modelos'     
+  category: 'Aplicaciones y modelos'  
+  speakers: [108, 109, 110]   
   
 - id: 056
   title: "Multiweb: análisis de redes ecológicas"
   language: "es"
   category: 'Aplicaciones y modelos' 
+  speakers: [87, 88, 89, 90]  
   
 - id: 057
   title: "Visualizing univariate and multivariate impacts of TuMV infection on host physiology and morphology in Arabidopsis"
   language: "es"
-  category: 'Aplicaciones y modelos'   
+  category: 'Aplicaciones y modelos' 
+  speakers: [91, 92, 93, 94, 95, 96]  
   
 - id: 157
   title: "Paquete gfwr para acceder a datos globales de seguimiento de embarcaciones"
   language: "es"
-  category: 'Aplicaciones y modelos'     
+  category: 'Aplicaciones y modelos'  
+  speakers: [57, 111, 112]  
+
   
 - id: 058
   title: "Sesión de preguntas y diálogo con presentadores"
@@ -350,32 +359,39 @@
   title: "STRANGE-R METHODOLOGIES: Ensinando R de Trás-pra-Frente no serviço público"
   language: "pt"
   category: 'Enseñanza y comunidades'   
+  speakers: [97, 98, 99, 100, 101]  
   
 - id: 060
   title: "Cómo ganarse la vida enseñando R"
   language: "es"
   category: 'Enseñanza y comunidades' 
+  speakers: [9, 102]  
   
 - id: 061
   title: "10 reglas para organizar un Club de Lectura (on-line) exitoso"
   language: "es"
   category: 'Enseñanza y comunidades'   
+  speakers: [103, 9]  
   
 - id: 062
   title: "Teaching Community-Engaged Data Science"
   language: "en"
-  category: 'Enseñanza y comunidades'     
+  category: 'Enseñanza y comunidades' 
+  speakers: [104]  
  
 - id: 063
   title: "Organizando conferencias incluyentes con la comunidad de R"
   language: "es"
   category: 'Enseñanza y comunidades'  
+  speakers: [57, 6, 7, 9, 113, 114, 115, 116, 117, 118, 119, 120, 121, 123, 124, 125, 126, 127, 128]  
   
+
 - id: 064
   title: "Sesión de preguntas y diálogo con presentadores"
   language: "es/pt/en"
-  category: 'Enseñanza y comunidades'    
+  category: 'Enseñanza y comunidades'  
   
+ 
 - id: 065
   title: "<b>Keynote: 10 years of R-Ladies</b>"
   language: en
