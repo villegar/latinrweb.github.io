@@ -215,15 +215,15 @@
   #   titles:
   #   - 'Universidad de Buenos Aires, Argentina '
   #   - R en Buenos Aires, Argentina
-  - id: 2
-    level: organizer
-    thumbnailUrl: default.jpg
-    color: '#7FC97F'
-    name: Paola
-    surname: Corrales
-    titles:
-    - Universidad de Buenos Aires, Argentina
-    - R-Ladies BsAs, Argentina
+  # - id: 2
+  #   level: organizer
+  #   thumbnailUrl: default.jpg
+  #   color: '#7FC97F'
+  #   name: Paola
+  #   surname: Corrales
+  #   titles:
+  #   - Universidad de Buenos Aires, Argentina
+  #   - R-Ladies BsAs, Argentina
   # - id: 3
   #   level: organizer
   #   thumbnailUrl: default.jpg
@@ -241,15 +241,15 @@
   #   - R-Ladies Resistencia Corrientes, Argentina
   #   - R en NEA, Argentina
   #   - LEMyP (IQUIBA-NEA) CONICET
-  # - id: 5
-  #   level: organizer
-  #   thumbnailUrl: default.jpg
-  #   color: '#7FC97F'
-  #   name: Patricia
-  #   surname: Loto
-  #   titles:
-  #   - R-Ladies Resistencia Corrientes, Argentina
-  #   - Universidad Nacional del Nordeste
+  - id: 5
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Patricia
+    surname: Loto
+    titles:
+    - R-Ladies Resistencia Corrientes, Argentina
+    - Universidad Nacional del Nordeste
   # - id: 6
   #   level: organizer
   #   thumbnailUrl: default.jpg
@@ -344,6 +344,7 @@
     name: Beatriz
     surname: Milz
     titles:
+    - Curso-R
     - Universidad de São Paulo
     - R-Ladies São Paulo
   - id: 16
@@ -363,23 +364,23 @@
     titles:
     - CIIPME-CONICET
     - UNaHur
-  - id: 18
-    level: organizer
-    thumbnailUrl: default.jpg
-    color: '#7FC97F'
-    name: Linda 
-    surname: Cabrera Orellana
-    titles:
-    - R-Ladies Guayaquil
-    - Universidad Técnica de Machala
-  - id: 19
-    level: organizer
-    thumbnailUrl: default.jpg
-    color: '#7FC97F'
-    name: Samuel 
-    surname: Carleial
-    titles:
-    - University of Konstanz (GER)
+  # - id: 18
+  #   level: organizer
+  #   thumbnailUrl: default.jpg
+  #   color: '#7FC97F'
+  #   name: Linda 
+  #   surname: Cabrera Orellana
+  #   titles:
+  #   - R-Ladies Guayaquil
+  #   - Universidad Técnica de Machala
+  # - id: 19
+  #   level: organizer
+  #   thumbnailUrl: default.jpg
+  #   color: '#7FC97F'
+  #   name: Samuel 
+  #   surname: Carleial
+  #   titles:
+  #   - University of Konstanz (GER)
   - id: 20
     level: organizer
     thumbnailUrl: default.jpg
@@ -405,3 +406,14 @@
     - R-Ladies Cuernavaca
     - Bioconductor
     - CDSB México
+  - id: 23
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Felipe  
+    surname: Osorio
+    titles:
+    - Universidad Técnica Federico Santa María
+    
+    
+    
