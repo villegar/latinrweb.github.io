@@ -78,11 +78,11 @@
     surname: Gili
     level: cientifico
     titles: Univsersidad Nacional de La Pampa
-  - id: 26
-    name: Carmen
-    surname: Le Foulon
-    level: cientifico
-    titles: Centro de Estudios Públicos (CEP)
+  # - id: 26
+  #   name: Carmen
+  #   surname: Le Foulon
+  #   level: cientifico
+  #   titles: Centro de Estudios Públicos (CEP)
   - id: 101
     name: Francisco
     surname: Urdinez
@@ -92,112 +92,159 @@
     name: Germán
     surname: Rosati
     level: cientifico
-    titles: IDAES-UNSAM / CONICET, Argentina
+    titles: CONICET/ EIDAES-UNSAM
   - id: 2
     name: Ignacio
     surname: Alverez-Castro
     level: cientifico
-    titles: IESTA-Universidad de la República
-  - id: 21
-    name: Jairo
-    surname: Cugliari
-    level: cientifico
-    titles: ERIC-Université Lumière Lyon 2
+    titles: R Ladies Buenos Aires/IBBEA, CONICET-UBA
+  # - id: 21
+  #   name: Jairo
+  #   surname: Cugliari
+  #   level: cientifico
+  #   titles: ERIC-Université Lumière Lyon 2
   - id: 25
     name: Juan Cruz
-    surname: Rodriguez
+    surname: Rodríguez
     level: cientifico
     titles: FAMAF - Universidad Nacional de Córdoba
   - id: 11
     name: Juan
     surname: José Goyeneche
     level: cientifico
-    titles: IESTA-Universidad de la República
-  - id: 23
-    name: Laura
-    surname: Ación
-    level: cientifico
-    titles: LatinR Inaugural Local Chair / UBA-CONICET, Argentina
-  - id: 13
-    name: Leonardo
-    surname: Moreno
-    level: cientifico
-    titles: IESTA-Universidad de la República
+    titles: Instituto de Estadística - Facultad de Ciencias Económicas y de Administración - Uruguay
+  # - id: 23
+  #   name: Laura
+  #   surname: Ación
+  #   level: cientifico
+  #   titles: LatinR Inaugural Local Chair / UBA-CONICET, Argentina
+  # - id: 13
+  #   name: Leonardo
+  #   surname: Moreno
+  #   level: cientifico
+  #   titles: IESTA-Universidad de la República
   - id: 22
-    name: Lucia
+    name: Lucía Inés
     surname: Rodriguez Planes
     level: cientifico
-    titles: Universidad Nacional de Tierra del Fuego - CONICET
+    titles: Dirección Regional Patagonia Austral, Administración de Parques Nacionales
   - id: 1
     name: Marcela
     surname: Alfaro
     level: cientifico
     titles: Department of Statistics, University of California, Santa Cruz
   - id: 6
-    name: Marina
+    name: Marina Cecilia
     surname: Cock
     level: cientifico
+    titles: CONICET - UNIVERSIDAD NACIONAL DE LA PAMPA
   - id: 20
     name: Vianey
-    surname: Leos
+    surname: Leos Barajas
     level: cientifico
-    titles: North Carolina State Universuty
-  - id: 28
-    name: Victoria
-    surname: O'Donell
-    level: cientifico
-    titles: Universidad de Buenos Aires
+    titles: University of Toronto 
+  # - id: 28
+  #   name: Victoria
+  #   surname: O'Donell
+  #   level: cientifico
+  #   titles: Universidad de Buenos Aires
   - id: 27
-    name: Zulema
+    name: Zulemma
     surname: Bazurto Blacio
     level: cientifico
     titles: Universidad de Guayaquil
   - id: 28
     name: Virginia
-    surname: Alonso
+    surname: García Alonso
     level: cientifico
-  - id: 29
-    name: Mathias
-    surname: Bourel
-    level: cientifico
-    titles: Facultad de Ingeniería, UDELAR
+    titles: R Ladies Buenos Aires/IBBEA, CONICET-UBA
+  # - id: 29
+  #   name: Mathias
+  #   surname: Bourel
+  #   level: cientifico
+  #   titles: Facultad de Ingeniería, UDELAR
   - id: 30
     name: Naim
     surname: Bro
     level: cientifico
-  - id: 31
-    name: Maria José
-    surname: García-Zattera
-    level: cientifico
+    titles: Universidad Adolfo Ibáñez
+  # - id: 31
+  #   name: Maria José
+  #   surname: García-Zattera
+  #   level: cientifico
   - id: 32
-    name: Ricardo
-    surname: Olea
+    name: Ricardo Alonso
+    surname: Olea Ortega
     level: cientifico
+    titles: Pontificia Universidad Católica de Chile
   - id: 33
     name: Natalia
     surname: Moradeira
     level: cientifico
+    titles: Instituto de Investigación e Ingeniería Ambiental - Consejo Nacional de Investigaciones Científicas y Técnica - Universidad Nacional de San Martín
   - id: 34
-    name: Pamela
+    name: Pamela E.
     surname: Pairo
     level: cientifico
-  - id: 35
-    name: Andrea 
-    surname: Sánchez-Tapia
-    level: cientifico
+    titles: AFIP- SDG SIT
+  # - id: 35
+  #   name: Andrea 
+  #   surname: Sánchez-Tapia
+  #   level: cientifico
   - id: 36
-    name: Alejandra 
+    name: Alejandra
     surname: Tapia
     level: cientifico
+    titles: Pontificia Universidad Católica de Chile
   - id: 37
     name: Inés
-    surname: varas
+    surname: Varas
     level: cientifico
+    titles: Pontificia Universidad Católica de Chile
   - id: 39
-    name:  Luis D. 
+    name:  Luis D.
     surname: Verde Arregoitia
     level: cientifico
-    titles: Instituto de Ecología A.C.
+    titles: Instituto de Ecología AC (INECOL), México
+  - id: 40
+    name: Alejandro
+    surname:  Espinosa-Rada
+    level: cientifico  
+    titles: ETH Zürich
+  - id: 41
+    name: Jennifer 
+    surname:  Isasi
+    level: cientifico  
+    titles: Pennsylvania State University
+  - id: 42
+    name: Felipe 
+    surname:  Osorio
+    level: cientifico  
+    titles: Universidad Técnica Federico Santa María, Chile  
+  - id: 43
+    name: Francisca
+    surname:  Ortiz Ruiz
+    level: cientifico  
+    titles: Millennium Institute for Care Research (MICARE), Santiago, Chile.   
+  - id: 44
+    name: Ileana
+    surname:  Frasier
+    level: cientifico  
+    titles: INSTITUTO DE SUELOS CIRN-CNIA; CONICET
+  - id: 45
+    name: María José 
+    surname:  García Zattera
+    level: cientifico  
+    titles: Pontificia Universidad Católica de Chile  
+  - id: 46
+    name: Sara
+    surname:  Acevedo
+    level: cientifico  
+    titles: Pontificia Universidad Católica de Chile  
+        
+    
+    
+    
 
 - level: organizer
   name:
@@ -413,7 +460,7 @@
     name: Felipe  
     surname: Osorio
     titles:
-    - Universidad Técnica Federico Santa María
+    - Universidad Técnica Federico Santa María, Chile
     
     
     
