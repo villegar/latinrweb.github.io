@@ -24,7 +24,7 @@ en:
   team: Team
   logistics: Logistics
   inscribite: Register
-  eventDate: "October 10-14, 2022 - Online"
+  eventDate: "October 18-20, 2023 - Montevideo, Uruguay"
   description: Latinamerican Conference About the Use of R in R&D
   metaKeywords: "event, R, conference, statistics, dataviz"
   tweetsFeedTitle: What's up?
@@ -40,7 +40,7 @@ en:
   # Navigation
   navigationLinks:
    - {permalink: "/en", text: "Home" }
-   - {permalink: "/schedule/", text: "Schedule"}
+   #- {permalink: "/schedule/", text: "Schedule"}
   # - {permalink: "/speakers/", text: "Speakers"}
    - {permalink: "/team/", text: "Team"}
   # - {permalink: "/logistics/", text: "Logistics"}
@@ -48,17 +48,17 @@ en:
    - {permalink: "/previous-editions", text: "Previous Editions"}
 
   bottomNavigationLinks:
-   - {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Register here!"}
+   #- {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Register here!"}
    - {permalink: "http://bit.ly/latinr_slack", text: "Join us on Slack"}
    
   rightNavigationButtons:
-   - {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Register here!"}
+   #- {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Register here!"}
    - {permalink: "http://bit.ly/latinr_slack", text: "Join us on Slack"}
   heroButtons:
-   #- {permalink: "https://easychair.org/cfp/latinr2022", text: "Call for Papers: submit until July 27!"}
+   - {permalink: "https://easychair.org/cfp/latinr2023", text: "Call for Papers: submit until May 31!"}
    #- {permalink: "/schedule", text: "Schedule"}
-   - {permalink: "https://www.youtube.com/LatinR", text: "YouTube Streaming"}
-   - {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Register here!"}
+   #- {permalink: "https://www.youtube.com/LatinR", text: "YouTube Streaming"}
+   #- {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Register here!"}
 
   #aboutJAIIO: 'We are part of <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organised by <a href = "http://www.sadio.org.ar/">SADIO</a> and <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
@@ -120,12 +120,12 @@ en:
 es:
   about: Acerca de
   home: Principal
-  schedule: Cronograma
+  #schedule: Cronograma
   # speakers: Oradores
   team: Equipo
   logistics: Logística
   inscribite: Inscríbete
-  eventDate: "10 al 14 de octubre de 2022 - Virtual"
+  eventDate: "18 al 20 de octubre de 2023 - Montevideo, Uruguay"
   description: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
   metaKeywords: "evento, R, conferencia, estadística, dataviz"
   latestNewsTitle: "Novedades"
@@ -153,10 +153,10 @@ es:
    - {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Registrate acá!"}
    
   heroButtons:
-   #- {permalink: "https://easychair.org/cfp/latinr2022", text: "Convocatoria a presentar trabajos: hasta 27 de julio!"}
+   - {permalink: "https://easychair.org/cfp/latinr2023", text: "Convocatoria a presentar trabajos: hasta 31 de mayo!"}
    #- {permalink: "/cronograma", text: "Cronograma"}
-   - {permalink: "https://www.youtube.com/LatinR", text: "Streaming a YouTube"}
-   - {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Registrate acá!"}
+   #- {permalink: "https://www.youtube.com/LatinR", text: "Streaming a YouTube"}
+   #- {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Registrate acá!"}
 
   # about
   # aboutJAIIO: 'Somos parte de las <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizadas por <a href = "http://www.sadio.org.ar/">SADIO</a> y co-organizadas por <a href = "http://www.palermo.edu/">UP</a>.'
@@ -223,12 +223,12 @@ es:
 pt:
   about: Sobre
   home: Início
-  schedule: Programação
+  #schedule: Programação
   #speakers: Palestrantes
   team: Equipe
   #logistics: Logística
   inscribite: Inscrever
-  eventDate: "10 a 14 de outubro de 2022 - Virtual"
+  eventDate: "18 a 20 de outubro de 2023 - Montevideo, Uruguay"
   description: Conferência Latino-Americana sobre o Uso de R em P&D
   metaKeywords: "evento, R, conferência, estatística, visualização de dados"
   tweetsFeedTitle: Novidades
@@ -260,10 +260,10 @@ pt:
    - {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Inscreva-se!"}
 
   heroButtons:
-   #- {permalink: "https://easychair.org/cfp/latinr2022", text: "Chamada de trabalhos: até 27 de julho!"}
+   - {permalink: "https://easychair.org/cfp/latinr2023", text: "Chamada de trabalhos: até 31 de maio!"}
    #- {permalink: "/programacao", text: "Programação"}
-   - {permalink: "https://www.youtube.com/LatinR", text: "YouTube Streaming"}
-   - {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Inscreva-se!"}
+   #- {permalink: "https://www.youtube.com/LatinR", text: "YouTube Streaming"}
+   #- {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Inscreva-se!"}
 
   # aboutJAIIO: 'Somos parte da <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizado por <a href = "http://www.sadio.org.ar/">SADIO</a> e <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
