@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 encoding: UTF-8
 # Site Settings
-title: "LatinR 2022"
+title: "LatinR 2023"
 email: ""
 baseurl: ""
 url: "https://latinr.github.io/"
@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "LatinR 2022"
+heroTitle: "LatinR 2023"
 typeoutTextValues: '""'
 typeoutFallback: ""
 
@@ -118,7 +118,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://twitter.com/LatinR_Conf", icon: "twitter"}
- - {link: "https://www.facebook.com/LatinR_Conf", icon: "facebook"}
+ #- {link: "https://www.facebook.com/LatinR_Conf", icon: "facebook"}
  - {link: "https://www.linkedin.com/company/latinrconf", icon: "linkedin"}
  - {link: "https://latin-r.slack.com/join/shared_invite/enQtNDA3MjM3MTQwOTM1LTg3ZWMyNWU3MGI2MGM5YzU0MGU4NWE5NjYwMjBhMGZmYTQzYTA0ODZlOTE1NDc0YzIwM2NhYTJiNDQyZjMzZjc", icon: "slack"}
 
