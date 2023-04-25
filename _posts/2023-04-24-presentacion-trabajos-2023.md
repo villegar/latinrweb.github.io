@@ -50,6 +50,7 @@ Los temas sugeridos para esta edición son los siguientes:
     plataformas
 
 <br><br>
+
 ##### Modalidades de presentación
 
 ###### Comunicaciones Orales
