@@ -20,7 +20,8 @@
       surname: "Quiroga"
       titles:
         - Facultad de Letras, Universidad Católica de Chile
-        - R-Ladies Santiago / Valparaíso, Chile
+        - Programming Historian / ProgHist Ltd.
+        - R-Ladies Santiago / Valparaíso, Chile + Global Team
       thumbnailUrl: OstapAndrusiv.jpg
       color: "#FDC086"
       team: true
@@ -32,7 +33,7 @@
       name: "Yanina"
       surname: "Bellini Saibene"
       titles:
-        - Instituto Nacional de Tecnología Agropecuaria
+        - ROpenSci
         - R-Ladies Santa Rosa, Argentina + Global Team
       thumbnailUrl: OlehZasadnyy.jpg
       color: "#F0027F"
@@ -73,46 +74,46 @@
     pt: Comitê científico
   color: '#386CB0'
   people:
-  - id: 10
-    name: Adriana
-    surname: Gili
-    level: cientifico
-    titles: Univsersidad Nacional de La Pampa
+  #- id: 10
+  #  name: Adriana
+  #  surname: Gili
+  #  level: cientifico
+  #  titles: Univsersidad Nacional de La Pampa
   # - id: 26
   #   name: Carmen
   #   surname: Le Foulon
   #   level: cientifico
   #   titles: Centro de Estudios Públicos (CEP)
-  - id: 101
-    name: Francisco
-    surname: Urdinez
-    level: cientifico
-    titles: Pontificia Universidad Católica de Chile
-  - id: 15
-    name: Germán
-    surname: Rosati
-    level: cientifico
-    titles: CONICET/ EIDAES-UNSAM
-  - id: 2
-    name: Ignacio
-    surname: Alverez-Castro
-    level: cientifico
-    titles: R Ladies Buenos Aires/IBBEA, CONICET-UBA
+  #- id: 101
+  #  name: Francisco
+  #  surname: Urdinez
+  #  level: cientifico
+  #  titles: Pontificia Universidad Católica de Chile
+  #- id: 15
+  #  name: Germán
+  #  surname: Rosati
+  #  level: cientifico
+  #  titles: CONICET/ EIDAES-UNSAM
+  #- id: 2
+  #  name: Ignacio
+  #  surname: Alverez-Castro
+  #  level: cientifico
+  #  titles: R Ladies Buenos Aires/IBBEA, CONICET-UBA
   # - id: 21
   #   name: Jairo
   #   surname: Cugliari
   #   level: cientifico
   #   titles: ERIC-Université Lumière Lyon 2
-  - id: 25
-    name: Juan Cruz
-    surname: Rodríguez
-    level: cientifico
-    titles: FAMAF - Universidad Nacional de Córdoba
-  - id: 11
-    name: Juan
-    surname: José Goyeneche
-    level: cientifico
-    titles: Instituto de Estadística - Facultad de Ciencias Económicas y de Administración - Uruguay
+  #- id: 25
+  #  name: Juan Cruz
+  #  surname: Rodríguez
+  #  level: cientifico
+  #  titles: FAMAF - Universidad Nacional de Córdoba
+  #- id: 11
+  #  name: Juan
+  #  surname: José Goyeneche
+  #  level: cientifico
+  #  titles: Instituto de Estadística - Facultad de Ciencias Económicas y de Administración - Uruguay
   # - id: 23
   #   name: Laura
   #   surname: Ación
@@ -123,124 +124,124 @@
   #   surname: Moreno
   #   level: cientifico
   #   titles: IESTA-Universidad de la República
-  - id: 22
-    name: Lucía Inés
-    surname: Rodriguez Planes
-    level: cientifico
-    titles: Dirección Regional Patagonia Austral, Administración de Parques Nacionales
-  - id: 1
-    name: Marcela
-    surname: Alfaro
-    level: cientifico
-    titles: Department of Statistics, University of California, Santa Cruz
-  - id: 6
-    name: Marina Cecilia
-    surname: Cock
-    level: cientifico
-    titles: CONICET - UNIVERSIDAD NACIONAL DE LA PAMPA
-  - id: 20
-    name: Vianey
-    surname: Leos Barajas
-    level: cientifico
-    titles: University of Toronto 
+  #- id: 22
+  #  name: Lucía Inés
+  #  surname: Rodriguez Planes
+  #  level: cientifico
+  #  titles: Dirección Regional Patagonia Austral, Administración de Parques Nacionales
+  #- id: 1
+  #  name: Marcela
+  #  surname: Alfaro
+  #  level: cientifico
+  #  titles: Department of Statistics, University of California, Santa Cruz
+  #- id: 6
+  #  name: Marina Cecilia
+  #  surname: Cock
+  #  level: cientifico
+  #  titles: CONICET - UNIVERSIDAD NACIONAL DE LA PAMPA
+  #- id: 20
+  #  name: Vianey
+  #  surname: Leos Barajas
+  #  level: cientifico
+  #  titles: University of Toronto 
   # - id: 28
   #   name: Victoria
   #   surname: O'Donell
   #   level: cientifico
   #   titles: Universidad de Buenos Aires
-  - id: 27
-    name: Zulemma
-    surname: Bazurto Blacio
-    level: cientifico
-    titles: Universidad de Guayaquil
-  - id: 28
-    name: Virginia
-    surname: García Alonso
-    level: cientifico
-    titles: R Ladies Buenos Aires/IBBEA, CONICET-UBA
+  #- id: 27
+  #  name: Zulemma
+  #  surname: Bazurto Blacio
+  #  level: cientifico
+  #  titles: Universidad de Guayaquil
+  #- id: 28
+  #  name: Virginia
+  #  surname: García Alonso
+  #  level: cientifico
+  #  titles: R Ladies Buenos Aires/IBBEA, CONICET-UBA
   # - id: 29
   #   name: Mathias
   #   surname: Bourel
   #   level: cientifico
   #   titles: Facultad de Ingeniería, UDELAR
-  - id: 30
-    name: Naim
-    surname: Bro
-    level: cientifico
-    titles: Universidad Adolfo Ibáñez
+  #- id: 30
+  #  name: Naim
+  #  surname: Bro
+  #  level: cientifico
+  #  titles: Universidad Adolfo Ibáñez
   # - id: 31
   #   name: Maria José
   #   surname: García-Zattera
   #   level: cientifico
-  - id: 32
-    name: Ricardo Alonso
-    surname: Olea Ortega
-    level: cientifico
-    titles: Pontificia Universidad Católica de Chile
-  - id: 33
-    name: Natalia
-    surname: Moradeira
-    level: cientifico
-    titles: Instituto de Investigación e Ingeniería Ambiental - Consejo Nacional de Investigaciones Científicas y Técnica - Universidad Nacional de San Martín
-  - id: 34
-    name: Pamela E.
-    surname: Pairo
-    level: cientifico
-    titles: AFIP- SDG SIT
+  #- id: 32
+  #  name: Ricardo Alonso
+  #  surname: Olea Ortega
+  #  level: cientifico
+  #  titles: Pontificia Universidad Católica de Chile
+  #- id: 33
+  #  name: Natalia
+  #  surname: Moradeira
+  #  level: cientifico
+  #  titles: Instituto de Investigación e Ingeniería Ambiental - Consejo Nacional de Investigaciones Científicas y Técnica - Universidad Nacional de San Martín
+  #- id: 34
+  #  name: Pamela E.
+  #  surname: Pairo
+  #  level: cientifico
+  #  titles: AFIP- SDG SIT
   # - id: 35
   #   name: Andrea 
   #   surname: Sánchez-Tapia
   #   level: cientifico
-  - id: 36
-    name: Alejandra
-    surname: Tapia
-    level: cientifico
-    titles: Pontificia Universidad Católica de Chile
-  - id: 37
-    name: Inés
-    surname: Varas
-    level: cientifico
-    titles: Pontificia Universidad Católica de Chile
-  - id: 39
-    name:  Luis D.
-    surname: Verde Arregoitia
-    level: cientifico
-    titles: Instituto de Ecología AC (INECOL), México
-  - id: 40
-    name: Alejandro
-    surname:  Espinosa-Rada
-    level: cientifico  
-    titles: ETH Zürich
-  - id: 41
-    name: Jennifer 
-    surname:  Isasi
-    level: cientifico  
-    titles: Pennsylvania State University
-  - id: 42
-    name: Felipe 
-    surname:  Osorio
-    level: cientifico  
-    titles: Universidad Técnica Federico Santa María, Chile  
-  - id: 43
-    name: Francisca
-    surname:  Ortiz Ruiz
-    level: cientifico  
-    titles: Millennium Institute for Care Research (MICARE), Santiago, Chile.   
-  - id: 44
-    name: Ileana
-    surname:  Frasier
-    level: cientifico  
-    titles: INSTITUTO DE SUELOS CIRN-CNIA; CONICET
-  - id: 45
-    name: María José 
-    surname:  García Zattera
-    level: cientifico  
-    titles: Pontificia Universidad Católica de Chile  
-  - id: 46
-    name: Sara
-    surname:  Acevedo
-    level: cientifico  
-    titles: Pontificia Universidad Católica de Chile  
+  #- id: 36
+  #  name: Alejandra
+  #  surname: Tapia
+  #  level: cientifico
+  #  titles: Pontificia Universidad Católica de Chile
+  #- id: 37
+  #  name: Inés
+  #  surname: Varas
+  #  level: cientifico
+  #  titles: Pontificia Universidad Católica de Chile
+  #- id: 39
+  #  name:  Luis D.
+  #  surname: Verde Arregoitia
+  #  level: cientifico
+  #  titles: Instituto de Ecología AC (INECOL), México
+  #- id: 40
+  #  name: Alejandro
+  #  surname:  Espinosa-Rada
+  #  level: cientifico  
+  #  titles: ETH Zürich
+  #- id: 41
+  #  name: Jennifer 
+  #  surname:  Isasi
+  #  level: cientifico  
+  #  titles: Pennsylvania State University
+  #- id: 42
+  #  name: Felipe 
+  #  surname:  Osorio
+  #  level: cientifico  
+  #  titles: Universidad Técnica Federico Santa María, Chile  
+  #- id: 43
+  #  name: Francisca
+  #  surname:  Ortiz Ruiz
+  #  level: cientifico  
+  #  titles: Millennium Institute for Care Research (MICARE), Santiago, Chile.   
+  #- id: 44
+  #  name: Ileana
+  #  surname:  Frasier
+  #  level: cientifico  
+  #  titles: INSTITUTO DE SUELOS CIRN-CNIA; CONICET
+  #- id: 45
+  #  name: María José 
+  #  surname:  García Zattera
+  #  level: cientifico  
+  #  titles: Pontificia Universidad Católica de Chile  
+  #- id: 46
+  #  name: Sara
+  #  surname:  Acevedo
+  #  level: cientifico  
+  #  titles: Pontificia Universidad Católica de Chile  
         
     
     
@@ -288,15 +289,15 @@
   #   - R-Ladies Resistencia Corrientes, Argentina
   #   - R en NEA, Argentina
   #   - LEMyP (IQUIBA-NEA) CONICET
-  - id: 5
-    level: organizer
-    thumbnailUrl: default.jpg
-    color: '#7FC97F'
-    name: Patricia
-    surname: Loto
-    titles:
-    - R-Ladies Resistencia Corrientes, Argentina
-    - Universidad Nacional del Nordeste
+  #- id: 5
+  #  level: organizer
+  #  thumbnailUrl: default.jpg
+  #  color: '#7FC97F'
+  #  name: Patricia
+  #  surname: Loto
+  #  titles:
+  #  - R-Ladies Resistencia Corrientes, Argentina
+  #  - Universidad Nacional del Nordeste
   # - id: 6
   #   level: organizer
   #   thumbnailUrl: default.jpg
@@ -375,15 +376,15 @@
   #   titles:
   #   - ASK-AR Data Consultancy
   #   - RLadies São Paulo
-  - id: 11
-    level: organizer
-    thumbnailUrl: default.jpg
-    color: '#7FC97F'
-    name: Andrea
-    surname: Gómez Vargas
-    titles:
-    - Universidad de Buenos Aires
-    - R Ladies Buenos Aires
+  #- id: 11
+  #  level: organizer
+  #  thumbnailUrl: default.jpg
+  #  color: '#7FC97F'
+  #  name: Andrea
+  #  surname: Gómez Vargas
+  #  titles:
+  #  - Universidad de Buenos Aires
+  #  - R Ladies Buenos Aires
   - id: 12
     level: organizer
     thumbnailUrl: default.jpg
@@ -391,26 +392,26 @@
     name: Beatriz
     surname: Milz
     titles:
-    - Curso-R
     - Universidad de São Paulo
+    - Curso-R
     - R-Ladies São Paulo
-  - id: 16
-    level: organizer
-    thumbnailUrl: default.jpg
-    color: '#7FC97F'
-    name: Luis D. 
-    surname: Verde Arregoitia
-    titles:
-    - Instituto de Ecología A.C.
+  #- id: 16
+  #  level: organizer
+  #  thumbnailUrl: default.jpg
+  #  color: '#7FC97F'
+  #  name: Luis D. 
+  #  surname: Verde Arregoitia
+  #  titles:
+  #  - Instituto de Ecología A.C.
   - id: 17
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
     name: Macarena 
     surname: Quiroga
-    titles:
-    - CIIPME-CONICET
-    - UNaHur
+    #titles:
+    #- CIIPME-CONICET
+    #- UNaHur
   # - id: 18
   #   level: organizer
   #   thumbnailUrl: default.jpg
@@ -435,32 +436,65 @@
     name: Monica 
     surname: Alonso
     titles:
-    - RLadies Buenos Aires
-    - Banco Ciudad 
-  - id: 21
+    - R-Ladies Buenos Aires
+  #- id: 21
+  #  level: organizer
+  #  thumbnailUrl: default.jpg
+  #  color: '#7FC97F'
+  #  name: Pamela 
+  #  surname: Pairo
+  #- id: 22
+  #  level: organizer
+  #  thumbnailUrl: default.jpg
+  #  color: '#7FC97F'
+  #  name: Jocelyn 
+  #  surname: Chavez
+  #  titles:
+  #  - R-Ladies Cuernavaca
+  #  - Bioconductor
+  #  - CDSB México
+  #- id: 23
+  #  level: organizer
+  #  thumbnailUrl: default.jpg
+  #  color: '#7FC97F'
+  #  name: Felipe  
+  #  surname: Osorio
+  #  titles:
+  #  - Universidad Técnica Federico Santa María, Chile
+  - id: 24
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
-    name: Pamela 
-    surname: Pairo
-  - id: 22
-    level: organizer
-    thumbnailUrl: default.jpg
-    color: '#7FC97F'
-    name: Jocelyn 
-    surname: Chavez
+    name: Natalia  
+    surname: Riquelme
     titles:
-    - R-Ladies Cuernavaca
-    - Bioconductor
-    - CDSB México
-  - id: 23
+    - R-Ladies Concepción
+  - id: 25
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
-    name: Felipe  
-    surname: Osorio
+    name: Roberto  
+    surname: Villegas-Diaz
     titles:
-    - Universidad Técnica Federico Santa María, Chile
+    - Universidad de Liverpool
+  - id: 26
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Juan Pablo  
+    surname: Ruiz Nicolini
+    titles:
+    - Universidad Torcuato Di Tella
+  - id: 27
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Jesica  
+    surname: Formoso
+    titles:
+    - CIIPME-CONICET
+    - R-Ladies Buenos Aires
+    - MetaDocencia
     
     
     
