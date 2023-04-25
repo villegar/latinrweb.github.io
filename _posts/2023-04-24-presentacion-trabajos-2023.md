@@ -13,7 +13,7 @@ editor_options:
 
 <br> <br> La sexta versión de la conferencia se llevará a cabo em Montevideo, Uruguay, entre los días 18 y 20 de octubre. En esta edición se podrá participar con presentaciones orales, charlas relámpagos y pósters.
 
-
+<br>
 ##### Tópicos de interés
 
 Los temas sugeridos para esta edición son los siguientes:
@@ -49,26 +49,26 @@ Los temas sugeridos para esta edición son los siguientes:
 -   Uso de R en conjunto con otros lenguajes de programación y
     plataformas
 
-
+<br><br>
 ##### Modalidades de presentación
 
 ###### Comunicaciones Orales
 
 Comunicaciones sobre resultados de trabajos de investigación, estados de avance o desarrollos específicos que, por su originalidad o potencial aplicación e impacto en el uso o desarrollo de R en la academia o la industria, resulten de interés para la comunidad regional de R. Quienes participen en esta modalidad dispondrán de 20 minutos para la presentación y 5 minutos para diálogo con el público. 
 
-
+<br>
 ###### Charlas relámpago
 
 Las charlas relámpago proporcionan una oportunidad para presentar y discutir avances, ideas, investigaciones en curso, experiencias y desafíos relacionados a los ejes temáticos de LatinR. Quienes participen de esta modalidad dispondrán de 5 minutos para la presentación. Las charlas relámpago se agruparán en sesiones temáticas que incluirán espacio al final para una ronda de preguntas. 
-
+<br>
 ###### Pósters
 
 Al igual que las charlas relámpago, los pósters proporcionan una oportunidad para presentar avances y proyectos en curso relacionados a los ejes temáticos de LatinR. Durante la conferencia habrá un bloque horario destinado a la presentación de pósters y al diálogo con el público asistente. 
-
+<br><br>
 ##### Consideraciones sobre el envío de propuestas
 
 A finales de abril se anunciará la plataforma a utilizar para el envío de propuestas. Este año no seguiremos trabajando con EasyChair, ya que desde fines de 2022 dejó de ser una plataforma gratuita y no cumple con estándares mínimos de accesibilidad.
-
+<br>
 ##### Fechas importantes
 
 **Inicio recepción de trabajos**: 2 de mayo de 2023
