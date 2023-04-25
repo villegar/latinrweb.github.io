@@ -489,7 +489,7 @@
     - Universidad de Liverpool
     social:
       - {name: "twitter", link: "https://twitter.com/NatyRiquelmeS"}
-- id: 26
+  - id: 26
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
