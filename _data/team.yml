@@ -394,7 +394,11 @@
     titles:
     - Universidad de São Paulo
     - Curso-R
-    - R-Ladies São Paulo
+    - R-Ladies São Paulo, Brasil
+    social:
+      - {name: "twitter", link: "https://twitter.com/BeaMilz"}
+      - {name: "github", link: "https://github.com/beatrizmilz"}
+      - {name: "site", link: "https://beamilz.com/"} 
   #- id: 16
   #  level: organizer
   #  thumbnailUrl: default.jpg
@@ -412,6 +416,8 @@
     #titles:
     #- CIIPME-CONICET
     #- UNaHur
+    social:
+      - {name: "twitter", link: "https://twitter.com/_msquiroga"}    
   # - id: 18
   #   level: organizer
   #   thumbnailUrl: default.jpg
@@ -436,7 +442,9 @@
     name: Monica 
     surname: Alonso
     titles:
-    - R-Ladies Buenos Aires
+    - R-Ladies Buenos Aires, Argentina
+    social:
+      - {name: "twitter", link: "https://twitter.com/MonicaLA2000"}    
   #- id: 21
   #  level: organizer
   #  thumbnailUrl: default.jpg
@@ -468,7 +476,9 @@
     name: Natalia  
     surname: Riquelme
     titles:
-    - R-Ladies Concepción
+    - R-Ladies Concepción, Chile
+    social:
+      - {name: "twitter", link: "https://twitter.com/r\_villegas\_diaz"}    
   - id: 25
     level: organizer
     thumbnailUrl: default.jpg
@@ -477,7 +487,9 @@
     surname: Villegas-Diaz
     titles:
     - Universidad de Liverpool
-  - id: 26
+    social:
+      - {name: "twitter", link: "https://twitter.com/NatyRiquelmeS"}
+- id: 26
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
@@ -485,6 +497,9 @@
     surname: Ruiz Nicolini
     titles:
     - Universidad Torcuato Di Tella
+    social:
+      - {name: "twitter", link: "https://twitter.com/TuQmano"}
+      - {name: "github", link: "https://github.com/TuQmano"}       
   - id: 27
     level: organizer
     thumbnailUrl: default.jpg
@@ -493,10 +508,29 @@
     surname: Formoso
     titles:
     - CIIPME-CONICET
-    - R-Ladies Buenos Aires
+    - R-Ladies Buenos Aires, Argentina
     - MetaDocencia
     social:
       - {name: "twitter", link: "https://twitter.com/JesiFormoso"}
-    
+  - id: 28
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Bruna  
+    surname: Wundervald
+    titles:
+    - Maynooth University
+    social:
+      - {name: "twitter", link: "https://twitter.com/bwundervald"}
+  - id: 28
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Mauro  
+    surname: Loprete
+    titles:
+    - COGNUS
+    social:
+      - {name: "twitter", link: "https://twitter.com/mloprete17"}        
     
     
