@@ -28,7 +28,8 @@
       level: chair
       social:
         - {name: "twitter", link: "https://twitter.com/rivaquiroga"}
-        - {name: "site", link: " http://rivaquiroga.cl"}
+        - {name: "site", link: "http://rivaquiroga.cl"}
+        - {name: "mastodon", link: "https://mastodon.social/@rivaquiroga"}
     - id: 3
       name: "Yanina"
       surname: "Bellini Saibene"
@@ -478,7 +479,7 @@
     titles:
     - R-Ladies Concepción, Chile
     social:
-      - {name: "twitter", link: "https://twitter.com/r\_villegas\_diaz"}    
+      - {name: "twitter", link: "https://twitter.com/NatyRiquelmeS"}    
   - id: 25
     level: organizer
     thumbnailUrl: default.jpg
@@ -488,7 +489,9 @@
     titles:
     - Universidad de Liverpool
     social:
-      - {name: "twitter", link: "https://twitter.com/NatyRiquelmeS"}
+      - {name: "twitter", link: "https://twitter.com/r_villegas_diaz"}
+      - {name: "github", link: "https://github.com/villegar"}       
+      - {name: "linkedin", link: "https://www.linkedin.com/in/roberto-villegas-diaz"}  
   - id: 26
     level: organizer
     thumbnailUrl: default.jpg
