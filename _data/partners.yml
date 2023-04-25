@@ -1,17 +1,17 @@
--
-  group: {es: "", en: "", pt: ""}
-  elements:
-    - {name: "Appsilon", description: "Appsilon", link: "https://appsilon.com/", imageUrl: "Appsilon_2020_RGB_svg-COLOR.svg"}
+#-
+ # group: {es: "", en: "", pt: ""}
+ # elements:
+ #   - {name: "Appsilon", description: "Appsilon", link: "https://appsilon.com/", imageUrl: "Appsilon_2020_RGB_svg-COLOR.svg"}
 
--
-  group: {es: "", en: "", pt: ""}
-  elements:
-    - {name: "R Consortium", description: "R Consortium", link: "https://www.r-consortium.org/", imageUrl: "RConsortium_Icon.png"}
+#-
+  #group: {es: "", en: "", pt: ""}
+  #elements:
+  #  - {name: "R Consortium", description: "R Consortium", link: "https://www.r-consortium.org/", imageUrl: "RConsortium_Icon.png"}
 
--
-  group: {es: "", en: "", pt: ""}
-  elements:
-    - {name: "RStudio", description: "RStudio", link: "https://www.rstudio.com/", imageUrl: "RStudio.png"}
+#-
+ # group: {es: "", en: "", pt: ""}
+  #elements:
+   # - {name: "RStudio", description: "RStudio", link: "https://www.rstudio.com/", imageUrl: "RStudio.png"}
     
 -
   group: {es: "", en: "", pt: ""}
