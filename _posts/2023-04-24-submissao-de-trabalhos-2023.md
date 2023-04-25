@@ -15,6 +15,7 @@ editor_options:
 dias 18 e 20 de outubro. Este ano a chamada de trabalhos estará aberta para
 apresentações orais, palestras relâmpago e pôsteres. 
 <br> 
+
 ##### Tópicos de interesse
 <br> 
 Os tópicos sugeridos para esta edição são os seguintes:
@@ -60,8 +61,8 @@ progresso ou desenvolvimentos específicos que, por sua originalidade ou
 potencial aplicação e impacto no uso ou desenvolvimento de R na academia
 ou na indústria, sejam de interesse da comunidade regional de R. Aqueles
 que participam nesta modalidade terão 20 minutos para a apresentação e 5 minutos para diálogo com o público.
-
 <br>
+
 ###### Palestras relâmpago
 
 As palestras relâmpago são uma oportunidade para as pessoas
