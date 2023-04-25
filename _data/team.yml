@@ -29,7 +29,7 @@
       social:
         - {name: "twitter", link: "https://twitter.com/rivaquiroga"}
         - {name: "site", link: "http://rivaquiroga.cl"}
-        - {name: "mastodon", link: "https://mastodon.social/@rivaquiroga"}
+        - {name: "direction", link: "https://mastodon.social/@rivaquiroga"}
     - id: 3
       name: "Yanina"
       surname: "Bellini Saibene"
