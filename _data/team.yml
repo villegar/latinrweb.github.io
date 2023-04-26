@@ -43,6 +43,7 @@
       social:
         - {name: "twitter", link: "https://twitter.com/yabellini"}
         - {name: "site", link: "https://yabellini.netlify.com/"}
+        - {name: "mastodon", link: "https://fosstodon.org/@yabellini"}
     # - id: 4
     #   name: "Maria Florencia"
     #   surname: "D'Andrea"
@@ -290,15 +291,17 @@
   #   - R-Ladies Resistencia Corrientes, Argentina
   #   - R en NEA, Argentina
   #   - LEMyP (IQUIBA-NEA) CONICET
-  #- id: 5
-  #  level: organizer
-  #  thumbnailUrl: default.jpg
-  #  color: '#7FC97F'
-  #  name: Patricia
-  #  surname: Loto
-  #  titles:
-  #  - R-Ladies Resistencia Corrientes, Argentina
-  #  - Universidad Nacional del Nordeste
+  - id: 5
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Patricia
+    surname: Loto
+    titles:
+    - Metadocencia
+    - Facultad de Ciencias Agrarias, UNNE
+    social:
+      - {name: "twitter", link: "https://twitter.com/patriloto"}    
   # - id: 6
   #   level: organizer
   #   thumbnailUrl: default.jpg
@@ -329,16 +332,15 @@
   #   name: Fernando
   #   surname: Hannaka
   #   titles: Blue Economic Solutions
-  # - id: 10
-  #   level: organizer
-  #   thumbnailUrl: default.jpg
-  #   color: '#7FC97F'
-  #   name: María
-  #   surname: Nanton
-  #   titles:
-  #   - iMettrics
-  #   - Universidad de Buenos Aires, Argentina
-  #   - R Ladies Buenos Aires
+  - id: 10
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: María
+    surname: Nanton
+    titles:
+    - Universidad de Buenos Aires, Argentina
+    - {name: "twitter", link: "https://twitter.com/bynans1"}
   # - id: 13
   #   level: organizer
   #   thumbnailUrl: default.jpg
@@ -419,6 +421,7 @@
     #- UNaHur
     social:
       - {name: "twitter", link: "https://twitter.com/_msquiroga"}
+      - {name: "mastodon", link: "https://datasci.social/@macarenaquiroga"}         
   # - id: 18
   #   level: organizer
   #   thumbnailUrl: default.jpg
@@ -480,6 +483,7 @@
     - R-Ladies Concepción, Chile
     social:
       - {name: "twitter", link: "https://twitter.com/NatyRiquelmeS"}
+      - {name: "mastodon", link: "https://mastodon.social/@nriquelmes"}   
   - id: 25
     level: organizer
     thumbnailUrl: default.jpg
@@ -525,7 +529,7 @@
     - Maynooth University
     social:
       - {name: "twitter", link: "https://twitter.com/bwundervald"}
-  - id: 28
+  - id: 29
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
@@ -535,5 +539,14 @@
     - COGNUS
     social:
       - {name: "twitter", link: "https://twitter.com/mloprete17"}
-
+  - id: 30
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Julieta
+    surname: Laurino
+    titles:
+    - Facultad de Cs. Exactas y Naturales, Universidad de Buenos Aires
+    social:
+      - {name: "twitter", link: "https://twitter.com/JulietaLaurino"}
 
