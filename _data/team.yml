@@ -29,6 +29,7 @@
       social:
         - {name: "twitter", link: "https://twitter.com/rivaquiroga"}
         - {name: "site", link: "http://rivaquiroga.cl"}
+        - {name: "mastodon", link: "https://mastodon.social/@rivaquiroga"}
     - id: 3
       name: "Yanina"
       surname: "Bellini Saibene"
@@ -143,7 +144,7 @@
   #  name: Vianey
   #  surname: Leos Barajas
   #  level: cientifico
-  #  titles: University of Toronto 
+  #  titles: University of Toronto
   # - id: 28
   #   name: Victoria
   #   surname: O'Donell
@@ -189,7 +190,7 @@
   #  level: cientifico
   #  titles: AFIP- SDG SIT
   # - id: 35
-  #   name: Andrea 
+  #   name: Andrea
   #   surname: Sánchez-Tapia
   #   level: cientifico
   #- id: 36
@@ -210,42 +211,42 @@
   #- id: 40
   #  name: Alejandro
   #  surname:  Espinosa-Rada
-  #  level: cientifico  
+  #  level: cientifico
   #  titles: ETH Zürich
   #- id: 41
-  #  name: Jennifer 
+  #  name: Jennifer
   #  surname:  Isasi
-  #  level: cientifico  
+  #  level: cientifico
   #  titles: Pennsylvania State University
   #- id: 42
-  #  name: Felipe 
+  #  name: Felipe
   #  surname:  Osorio
-  #  level: cientifico  
-  #  titles: Universidad Técnica Federico Santa María, Chile  
+  #  level: cientifico
+  #  titles: Universidad Técnica Federico Santa María, Chile
   #- id: 43
   #  name: Francisca
   #  surname:  Ortiz Ruiz
-  #  level: cientifico  
-  #  titles: Millennium Institute for Care Research (MICARE), Santiago, Chile.   
+  #  level: cientifico
+  #  titles: Millennium Institute for Care Research (MICARE), Santiago, Chile.
   #- id: 44
   #  name: Ileana
   #  surname:  Frasier
-  #  level: cientifico  
+  #  level: cientifico
   #  titles: INSTITUTO DE SUELOS CIRN-CNIA; CONICET
   #- id: 45
-  #  name: María José 
+  #  name: María José
   #  surname:  García Zattera
-  #  level: cientifico  
-  #  titles: Pontificia Universidad Católica de Chile  
+  #  level: cientifico
+  #  titles: Pontificia Universidad Católica de Chile
   #- id: 46
   #  name: Sara
   #  surname:  Acevedo
-  #  level: cientifico  
-  #  titles: Pontificia Universidad Católica de Chile  
-        
-    
-    
-    
+  #  level: cientifico
+  #  titles: Pontificia Universidad Católica de Chile
+
+
+
+
 
 - level: organizer
   name:
@@ -398,12 +399,12 @@
     social:
       - {name: "twitter", link: "https://twitter.com/BeaMilz"}
       - {name: "github", link: "https://github.com/beatrizmilz"}
-      - {name: "site", link: "https://beamilz.com/"} 
+      - {name: "site", link: "https://beamilz.com/"}
   #- id: 16
   #  level: organizer
   #  thumbnailUrl: default.jpg
   #  color: '#7FC97F'
-  #  name: Luis D. 
+  #  name: Luis D.
   #  surname: Verde Arregoitia
   #  titles:
   #  - Instituto de Ecología A.C.
@@ -411,18 +412,18 @@
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
-    name: Macarena 
+    name: Macarena
     surname: Quiroga
     #titles:
     #- CIIPME-CONICET
     #- UNaHur
     social:
-      - {name: "twitter", link: "https://twitter.com/_msquiroga"}    
+      - {name: "twitter", link: "https://twitter.com/_msquiroga"}
   # - id: 18
   #   level: organizer
   #   thumbnailUrl: default.jpg
   #   color: '#7FC97F'
-  #   name: Linda 
+  #   name: Linda
   #   surname: Cabrera Orellana
   #   titles:
   #   - R-Ladies Guayaquil
@@ -431,7 +432,7 @@
   #   level: organizer
   #   thumbnailUrl: default.jpg
   #   color: '#7FC97F'
-  #   name: Samuel 
+  #   name: Samuel
   #   surname: Carleial
   #   titles:
   #   - University of Konstanz (GER)
@@ -439,23 +440,23 @@
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
-    name: Monica 
+    name: Monica
     surname: Alonso
     titles:
     - R-Ladies Buenos Aires, Argentina
     social:
-      - {name: "twitter", link: "https://twitter.com/MonicaLA2000"}    
+      - {name: "twitter", link: "https://twitter.com/MonicaLA2000"}
   #- id: 21
   #  level: organizer
   #  thumbnailUrl: default.jpg
   #  color: '#7FC97F'
-  #  name: Pamela 
+  #  name: Pamela
   #  surname: Pairo
   #- id: 22
   #  level: organizer
   #  thumbnailUrl: default.jpg
   #  color: '#7FC97F'
-  #  name: Jocelyn 
+  #  name: Jocelyn
   #  surname: Chavez
   #  titles:
   #  - R-Ladies Cuernavaca
@@ -465,7 +466,7 @@
   #  level: organizer
   #  thumbnailUrl: default.jpg
   #  color: '#7FC97F'
-  #  name: Felipe  
+  #  name: Felipe
   #  surname: Osorio
   #  titles:
   #  - Universidad Técnica Federico Santa María, Chile
@@ -473,40 +474,40 @@
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
-    name: Natalia  
+    name: Natalia
     surname: Riquelme
     titles:
     - R-Ladies Concepción, Chile
     social:
-      - {name: "twitter", link: "https://twitter.com/NatyRiquelmeS"}    
+      - {name: "twitter", link: "https://twitter.com/NatyRiquelmeS"}
   - id: 25
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
-    name: Roberto  
+    name: Roberto
     surname: Villegas-Diaz
     titles:
     - Universidad de Liverpool
     social:
       - {name: "twitter", link: "https://twitter.com/r_villegas_diaz"}
-      - {name: "github", link: "https://github.com/villegar"}       
-      - {name: "linkedin", link: "https://www.linkedin.com/in/roberto-villegas-diaz"}  
+      - {name: "github", link: "https://github.com/villegar"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/roberto-villegas-diaz"}
   - id: 26
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
-    name: Juan Pablo  
+    name: Juan Pablo
     surname: Ruiz Nicolini
     titles:
     - Universidad Torcuato Di Tella
     social:
       - {name: "twitter", link: "https://twitter.com/TuQmano"}
-      - {name: "github", link: "https://github.com/TuQmano"}       
+      - {name: "github", link: "https://github.com/TuQmano"}
   - id: 27
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
-    name: Jesica  
+    name: Jesica
     surname: Formoso
     titles:
     - CIIPME-CONICET
@@ -518,7 +519,7 @@
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
-    name: Bruna  
+    name: Bruna
     surname: Wundervald
     titles:
     - Maynooth University
@@ -528,11 +529,11 @@
     level: organizer
     thumbnailUrl: default.jpg
     color: '#7FC97F'
-    name: Mauro  
+    name: Mauro
     surname: Loprete
     titles:
     - COGNUS
     social:
-      - {name: "twitter", link: "https://twitter.com/mloprete17"}        
-    
-    
+      - {name: "twitter", link: "https://twitter.com/mloprete17"}
+
+
