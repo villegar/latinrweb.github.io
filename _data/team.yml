@@ -340,7 +340,8 @@
     surname: Nanton
     titles:
     - Universidad de Buenos Aires, Argentina
-    - {name: "twitter", link: "https://twitter.com/bynans1"}
+    social:
+      - {name: "twitter", link: "https://twitter.com/bynans1"}
   # - id: 13
   #   level: organizer
   #   thumbnailUrl: default.jpg
