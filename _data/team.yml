@@ -15,6 +15,8 @@
       social:
         - {name: "twitter", link: "https://twitter.com/pacocuak"}
         - {name: "site", link: " http://natydasilva.com"}
+        - {name: "mastodon", link: "https://mastodon.social/@pacocuak"}
+        
     - id: 2
       name: "Riva"
       surname: "Quiroga"
