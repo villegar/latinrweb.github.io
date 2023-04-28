@@ -21,9 +21,9 @@
       name: "Riva"
       surname: "Quiroga"
       titles:
-        - Facultad de Letras, Universidad Católica de Chile
-        - Programming Historian / ProgHist Ltd.
         - R-Ladies Santiago / Valparaíso, Chile + Global Team
+        - Programming Historian / ProgHist Ltd.
+        - Facultad de Letras, Universidad Católica de Chile       
       thumbnailUrl: OstapAndrusiv.jpg
       color: "#FDC086"
       team: true
@@ -32,6 +32,8 @@
         - {name: "twitter", link: "https://twitter.com/rivaquiroga"}
         - {name: "site", link: "http://rivaquiroga.cl"}
         - {name: "mastodon", link: "https://mastodon.social/@rivaquiroga"}
+        - {name: "github", link: "https://github.com/rivaquiroga"}    
+    
     - id: 3
       name: "Yanina"
       surname: "Bellini Saibene"
@@ -405,14 +407,16 @@
       - {name: "twitter", link: "https://twitter.com/BeaMilz"}
       - {name: "github", link: "https://github.com/beatrizmilz"}
       - {name: "site", link: "https://beamilz.com/"}
-  #- id: 16
-  #  level: organizer
-  #  thumbnailUrl: default.jpg
-  #  color: '#7FC97F'
-  #  name: Luis D.
-  #  surname: Verde Arregoitia
-  #  titles:
-  #  - Instituto de Ecología A.C.
+  - id: 16
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Luis D.
+    surname: Verde Arregoitia
+    titles:
+    - Instituto de Ecología A.C. (INECOL)
+    social:
+      - {name: "twitter", link: "https://twitter.com/LuisDVerde"}    
   - id: 17
     level: organizer
     thumbnailUrl: default.jpg
@@ -552,4 +556,37 @@
     - Facultad de Cs. Exactas y Naturales, Universidad de Buenos Aires
     social:
       - {name: "twitter", link: "https://twitter.com/JulietaLaurino"}
-
+  - id: 31
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Tatiana
+    surname: Peixoto
+    titles:
+    - R-Ladies São Paulo, Brasil
+    social:
+      - {name: "linkedin", link: "http://linkedin.com/in/tatiana-peixoto-gonçalves-a40a0319"}     
+  - id: 32
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Daniela
+    surname: Vázquez Leggiadro
+    titles:
+    - R-Ladies Montevideo, Uruguay
+    social:
+      - {name: "twitter", link: "https://twitter.com/d4tagirl"}
+      - {name: "mastodon", link: "https://mastodonte.tech/@d4tagirl"}     
+  - id: 33
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: José Daniel
+    surname: Conejeros Pavez
+    titles:
+    - Estadística - Escuela de Gobierno, Pontificia Universidad Católica de Chile
+    social:
+      - {name: "site", link: "https://jd-conejeros.com/"}
+      - {name: "github", link: "https://github.com/JDConejeros"}    
+      - {name: "twitter", link: "https://twitter.com/JDConejeros"}
+      - {name: "mastodon", link: "https://mastodon.social/@d4tagirl"}     
