@@ -72,7 +72,7 @@ Al igual que las charlas relámpago, los pósters proporcionan una oportunidad p
 -   Existe un paquete desarrollado por Elio Campitelli que permite elaborar el resumen en un archivo RMarkdown. Puedes revisar los detalles en [en este post](https://latin-r.com/blog/paquete-latinr). En ediciones anteriores de la conferencia era posible hacer el envío directamente desde R. En esta ocasión eso no es posible ya que la plataforma no es la misma. Si prefieres utilizar un procesador de textos, te pedimos que por favor uses [esta plantilla](https://docs.google.com/document/d/1KrPbi2AR5Rcq5fKMkC_yK_9gpez4Fmtz/edit?usp=sharing&ouid=107644076848762167027&rtpof=true&sd=true) para el envío. 
 -   Los trabajos deben enviarse a través de la plataforma [Open Review](https://openreview.net/group?id=LATIN-R.com/2023/Conference).  Es necesario registrarse en ella para poder hacer el envío. Es importante tener en consideración que el registro no es automático; puede tomar hasta 24 horas en quedar habilitada la cuenta. **Se sugiere no dejar la creación de la cuenta para el último minuto**.
 -   En el caso de los trabajos con autoría compartida, basta con que una persona del equipo se haya registrado en Open Review. 
--   Es posible enviar un solo trabajo como autor/a principal. Sin embargo, es posible participar como co-autor/a en un segundo trabajo.
+-   Es posible enviar un solo trabajo como autor/a principal. Sin embargo, es posible participar como co-autor/a en otros dos trabajos.
 -   Todos los trabajos serán revisados cuidadosamente por los miembros del Comité Científico (a anunciar próximamente), teniendo en cuenta su originalidad, aporte, calidad técnica y  claridad.
 
 
