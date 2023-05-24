@@ -68,22 +68,24 @@ Al igual que las charlas relámpago, los pósters proporcionan una oportunidad p
 <br><br>
 ##### Consideraciones sobre el envío de propuestas
 
-A finales de abril se anunciará la plataforma a utilizar para el envío de propuestas. Este año no seguiremos trabajando con EasyChair, ya que desde fines de 2022 dejó de ser una plataforma gratuita y no cumple con estándares mínimos de accesibilidad.
+-   Todos los trabajos deberán enviarse en formato PDF, **sin autores ni filiación**, en tamaño carta, escritos en fuente tamaño 11 a espacio simple. La extensión no puede superar las dos páginas. 
+-   Existe un paquete desarrollado por Elio Campitelli que permite elaborar el resumen en un archivo RMarkdown. Puedes revisar los detalles en [en este post](https://latin-r.com/blog/paquete-latinr). En ediciones anteriores de la conferencia era posible hacer el envío directamente desde R. En esta ocasión eso no es posible ya que la plataforma no es la misma. Si prefieres utilizar un procesador de textos, te pedimos que por favor uses [esta plantilla](https://docs.google.com/document/d/1KrPbi2AR5Rcq5fKMkC_yK_9gpez4Fmtz/edit?usp=sharing&ouid=107644076848762167027&rtpof=true&sd=true) para el envío. 
+-   Los trabajos deben enviarse a través de la plataforma [Open Review](https://openreview.net/group?id=LATIN-R.com/2023/Conference).  Es necesario registrarse en ella para poder hacer el envío. Es importante tener en consideración que el registro no es automático; puede tomar hasta 24 horas en quedar habilitada la cuenta. **Se sugiere no dejar la creación de la cuenta para el último minuto**.
+-   En el caso de los trabajos con autoría compartida, basta con que una persona del equipo se haya registrado en Open Review. 
+-   Es posible enviar un solo trabajo como autor/a principal. Sin embargo, es posible participar como co-autor/a en un segundo trabajo.
+-   Todos los trabajos serán revisados cuidadosamente por los miembros del Comité Científico (a anunciar próximamente), teniendo en cuenta su originalidad, aporte, calidad técnica y  claridad.
+
+
 <br>
 
 ##### Fechas importantes
 
 **Inicio recepción de trabajos**: 2 de mayo de 2023
 
-**Fecha límite para la recepción de propuestas**: 31 de
-mayo de 2023
+**Fecha límite para la recepción de propuestas**: 16 de junio de 2023
 
 **Notificación resultados evaluación**: principios de agosto 2023
 
-
 ###### Presentaciones y pósters versiones anteriores
 
-En nuestro [canal de YouTube](http://youtube.com/latinr) es posible
-revisar los videos de las ediciones 2020 a 2022 de LatinR. En nuestra
-cuenta en GitHub es posible acceder a los resúmenes y materiales de
-presentaciones y pósters de los años [2018](https://github.com/LatinR/presentaciones-LatinR2018), [2019](https://github.com/LatinR/presentaciones-LatinR2019), [2020](https://github.com/LatinR/presentaciones-LatinR2020), [2021](https://github.com/LatinR/presentaciones-LatinR2021) y [2022](https://github.com/LatinR/presentaciones-LatinR2022).
+En nuestro [canal de YouTube](http://youtube.com/latinr) es posible revisar los videos de las ediciones 2020 a 2022 de LatinR. En nuestra cuenta en  GitHub es posible acceder a los resúmenes y materiales de presentaciones y pósters de los años [2018](https://github.com/LatinR/presentaciones-LatinR2018), [2019](https://github.com/LatinR/presentaciones-LatinR2019), [2020](https://github.com/LatinR/presentaciones-LatinR2020), [2021](https://github.com/LatinR/presentaciones-LatinR2021) y [2022](https://github.com/LatinR/presentaciones-LatinR2022).
